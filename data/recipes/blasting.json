@@ -1,0 +1,524 @@
+{
+  "category": "blasting",
+  "count": 25,
+  "recipes": [
+    {
+      "type": "minecraft:blasting",
+      "name": "minecraft:coal_from_blasting_coal_ore",
+      "input": {
+        "1": {
+          "value": "minecraft:coal_ore",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:coal",
+          "count": 1
+        }
+      },
+      "experience": 0.1,
+      "cookTime": 100,
+      "category": "blasting"
+    },
+    {
+      "type": "minecraft:blasting",
+      "name": "minecraft:coal_from_blasting_deepslate_coal_ore",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate_coal_ore",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:coal",
+          "count": 1
+        }
+      },
+      "experience": 0.1,
+      "cookTime": 100,
+      "category": "blasting"
+    },
+    {
+      "type": "minecraft:blasting",
+      "name": "minecraft:copper_ingot_from_blasting_copper_ore",
+      "input": {
+        "1": {
+          "value": "minecraft:copper_ore",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:copper_ingot",
+          "count": 1
+        }
+      },
+      "experience": 0.7,
+      "cookTime": 100,
+      "category": "blasting"
+    },
+    {
+      "type": "minecraft:blasting",
+      "name": "minecraft:copper_ingot_from_blasting_deepslate_copper_ore",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate_copper_ore",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:copper_ingot",
+          "count": 1
+        }
+      },
+      "experience": 0.7,
+      "cookTime": 100,
+      "category": "blasting"
+    },
+    {
+      "type": "minecraft:blasting",
+      "name": "minecraft:copper_ingot_from_blasting_raw_copper",
+      "input": {
+        "1": {
+          "value": "minecraft:raw_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:copper_ingot",
+          "count": 1
+        }
+      },
+      "experience": 0.7,
+      "cookTime": 100,
+      "category": "blasting"
+    },
+    {
+      "type": "minecraft:blasting",
+      "name": "minecraft:copper_nugget_from_blasting",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:copper_pickaxe",
+            "minecraft:copper_shovel",
+            "minecraft:copper_axe",
+            "minecraft:copper_hoe",
+            "minecraft:copper_sword",
+            "minecraft:copper_spear",
+            "minecraft:copper_helmet",
+            "minecraft:copper_chestplate",
+            "minecraft:copper_leggings",
+            "minecraft:copper_boots",
+            "minecraft:copper_horse_armor",
+            "minecraft:copper_nautilus_armor"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:copper_nugget",
+          "count": 1
+        }
+      },
+      "experience": 0.1,
+      "cookTime": 100,
+      "category": "blasting"
+    },
+    {
+      "type": "minecraft:blasting",
+      "name": "minecraft:diamond_from_blasting_deepslate_diamond_ore",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate_diamond_ore",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:diamond",
+          "count": 1
+        }
+      },
+      "experience": 1.0,
+      "cookTime": 100,
+      "category": "blasting"
+    },
+    {
+      "type": "minecraft:blasting",
+      "name": "minecraft:diamond_from_blasting_diamond_ore",
+      "input": {
+        "1": {
+          "value": "minecraft:diamond_ore",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:diamond",
+          "count": 1
+        }
+      },
+      "experience": 1.0,
+      "cookTime": 100,
+      "category": "blasting"
+    },
+    {
+      "type": "minecraft:blasting",
+      "name": "minecraft:emerald_from_blasting_deepslate_emerald_ore",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate_emerald_ore",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:emerald",
+          "count": 1
+        }
+      },
+      "experience": 1.0,
+      "cookTime": 100,
+      "category": "blasting"
+    },
+    {
+      "type": "minecraft:blasting",
+      "name": "minecraft:emerald_from_blasting_emerald_ore",
+      "input": {
+        "1": {
+          "value": "minecraft:emerald_ore",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:emerald",
+          "count": 1
+        }
+      },
+      "experience": 1.0,
+      "cookTime": 100,
+      "category": "blasting"
+    },
+    {
+      "type": "minecraft:blasting",
+      "name": "minecraft:gold_ingot_from_blasting_deepslate_gold_ore",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate_gold_ore",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:gold_ingot",
+          "count": 1
+        }
+      },
+      "experience": 1.0,
+      "cookTime": 100,
+      "category": "blasting"
+    },
+    {
+      "type": "minecraft:blasting",
+      "name": "minecraft:gold_ingot_from_blasting_gold_ore",
+      "input": {
+        "1": {
+          "value": "minecraft:gold_ore",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:gold_ingot",
+          "count": 1
+        }
+      },
+      "experience": 1.0,
+      "cookTime": 100,
+      "category": "blasting"
+    },
+    {
+      "type": "minecraft:blasting",
+      "name": "minecraft:gold_ingot_from_blasting_nether_gold_ore",
+      "input": {
+        "1": {
+          "value": "minecraft:nether_gold_ore",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:gold_ingot",
+          "count": 1
+        }
+      },
+      "experience": 1.0,
+      "cookTime": 100,
+      "category": "blasting"
+    },
+    {
+      "type": "minecraft:blasting",
+      "name": "minecraft:gold_ingot_from_blasting_raw_gold",
+      "input": {
+        "1": {
+          "value": "minecraft:raw_gold",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:gold_ingot",
+          "count": 1
+        }
+      },
+      "experience": 1.0,
+      "cookTime": 100,
+      "category": "blasting"
+    },
+    {
+      "type": "minecraft:blasting",
+      "name": "minecraft:gold_nugget_from_blasting",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:golden_pickaxe",
+            "minecraft:golden_shovel",
+            "minecraft:golden_axe",
+            "minecraft:golden_hoe",
+            "minecraft:golden_sword",
+            "minecraft:golden_spear",
+            "minecraft:golden_helmet",
+            "minecraft:golden_chestplate",
+            "minecraft:golden_leggings",
+            "minecraft:golden_boots",
+            "minecraft:golden_horse_armor",
+            "minecraft:golden_nautilus_armor"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:gold_nugget",
+          "count": 1
+        }
+      },
+      "experience": 0.1,
+      "cookTime": 100,
+      "category": "blasting"
+    },
+    {
+      "type": "minecraft:blasting",
+      "name": "minecraft:iron_ingot_from_blasting_deepslate_iron_ore",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate_iron_ore",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:iron_ingot",
+          "count": 1
+        }
+      },
+      "experience": 0.7,
+      "cookTime": 100,
+      "category": "blasting"
+    },
+    {
+      "type": "minecraft:blasting",
+      "name": "minecraft:iron_ingot_from_blasting_iron_ore",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_ore",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:iron_ingot",
+          "count": 1
+        }
+      },
+      "experience": 0.7,
+      "cookTime": 100,
+      "category": "blasting"
+    },
+    {
+      "type": "minecraft:blasting",
+      "name": "minecraft:iron_ingot_from_blasting_raw_iron",
+      "input": {
+        "1": {
+          "value": "minecraft:raw_iron",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:iron_ingot",
+          "count": 1
+        }
+      },
+      "experience": 0.7,
+      "cookTime": 100,
+      "category": "blasting"
+    },
+    {
+      "type": "minecraft:blasting",
+      "name": "minecraft:iron_nugget_from_blasting",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:iron_pickaxe",
+            "minecraft:iron_shovel",
+            "minecraft:iron_axe",
+            "minecraft:iron_hoe",
+            "minecraft:iron_sword",
+            "minecraft:iron_spear",
+            "minecraft:iron_helmet",
+            "minecraft:iron_chestplate",
+            "minecraft:iron_leggings",
+            "minecraft:iron_boots",
+            "minecraft:iron_horse_armor",
+            "minecraft:iron_nautilus_armor",
+            "minecraft:chainmail_helmet",
+            "minecraft:chainmail_chestplate",
+            "minecraft:chainmail_leggings",
+            "minecraft:chainmail_boots"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:iron_nugget",
+          "count": 1
+        }
+      },
+      "experience": 0.1,
+      "cookTime": 100,
+      "category": "blasting"
+    },
+    {
+      "type": "minecraft:blasting",
+      "name": "minecraft:lapis_lazuli_from_blasting_deepslate_lapis_ore",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate_lapis_ore",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:lapis_lazuli",
+          "count": 1
+        }
+      },
+      "experience": 0.2,
+      "cookTime": 100,
+      "category": "blasting"
+    },
+    {
+      "type": "minecraft:blasting",
+      "name": "minecraft:lapis_lazuli_from_blasting_lapis_ore",
+      "input": {
+        "1": {
+          "value": "minecraft:lapis_ore",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:lapis_lazuli",
+          "count": 1
+        }
+      },
+      "experience": 0.2,
+      "cookTime": 100,
+      "category": "blasting"
+    },
+    {
+      "type": "minecraft:blasting",
+      "name": "minecraft:netherite_scrap_from_blasting",
+      "input": {
+        "1": {
+          "value": "minecraft:ancient_debris",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:netherite_scrap",
+          "count": 1
+        }
+      },
+      "experience": 2.0,
+      "cookTime": 100,
+      "category": "blasting"
+    },
+    {
+      "type": "minecraft:blasting",
+      "name": "minecraft:quartz_from_blasting",
+      "input": {
+        "1": {
+          "value": "minecraft:nether_quartz_ore",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:quartz",
+          "count": 1
+        }
+      },
+      "experience": 0.2,
+      "cookTime": 100,
+      "category": "blasting"
+    },
+    {
+      "type": "minecraft:blasting",
+      "name": "minecraft:redstone_from_blasting_deepslate_redstone_ore",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate_redstone_ore",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:redstone",
+          "count": 1
+        }
+      },
+      "experience": 0.7,
+      "cookTime": 100,
+      "category": "blasting"
+    },
+    {
+      "type": "minecraft:blasting",
+      "name": "minecraft:redstone_from_blasting_redstone_ore",
+      "input": {
+        "1": {
+          "value": "minecraft:redstone_ore",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:redstone",
+          "count": 1
+        }
+      },
+      "experience": 0.7,
+      "cookTime": 100,
+      "category": "blasting"
+    }
+  ]
+}

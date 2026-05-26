@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>投喂小猫 - MC材料转换姬</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <style>
+body {
+  background: var(--bg-body);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  overflow: hidden;
+  font-family: 'GameFont', 'Nunito', sans-serif;
+}
+
+.wrap {
+  max-width: 440px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* 返回 */
+.back {
+  align-self: flex-start;
+  color: var(--pink-500);
+  font-weight: 700;
+  font-size: 13px;
+  text-decoration: none;
+  padding: 6px 14px;
+  border-radius: 20px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  margin-bottom: 16px;
+  transition: all 0.2s;
+}
+.back:hover { background: var(--pink-100); border-color: var(--pink-300); transform: translateX(-3px); }
+
+/* 主卡片 */
+.donate-card {
+  background: var(--bg-card);
+  border-radius: 20px;
+  padding: 36px 32px 32px;
+  border: 1px solid var(--border);
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  box-shadow: 0 8px 32px rgba(255,70,144,0.08);
+}
+.donate-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 20px;
+  right: 20px;
+  height: 3px;
+  background: linear-gradient(90deg, var(--pink-300), var(--pink-500), var(--pink-300));
+  border-radius: 0 0 3px 3px;
+}
+
+/* 猫猫表情 */
+.cat-emoji {
+  font-size: 48px;
+  margin-bottom: 8px;
+  animation: catBounce 2s ease-in-out infinite;
+}
+@keyframes catBounce {
+  0%, 100% { transform: translateY(0) scale(1); }
+  25% { transform: translateY(-6px) scale(1.05); }
+  75% { transform: translateY(-3px) scale(1.02); }
+}
+
+/* 标题 */
+.donate-title {
+  font-size: 20px;
+  font-weight: 800;
+  background: linear-gradient(135deg, var(--pink-500), var(--pink-700));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin-bottom: 4px;
+}
+.donate-sub {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-bottom: 20px;
+  text-align: center;
+  line-height: 1.6;
+}
+
+/* 二维码 */
+.qr-wrap {
+  width: 200px;
+  height: 200px;
+  border-radius: 16px;
+  overflow: hidden;
+  border: 2px solid var(--pink-200);
+  background: var(--bg-soft);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 16px;
+  transition: transform 0.3s;
+}
+.qr-wrap:hover {
+  transform: scale(1.03);
+}
+.qr-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+/* 感恩文字 */
+.thanks {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--pink-500);
+  background: var(--pink-100);
+  padding: 8px 20px;
+  border-radius: 20px;
+  margin-bottom: 12px;
+}
+
+/* 底部小花样 */
+.footer-text {
+  font-size: 11px;
+  color: var(--text-muted);
+  text-align: center;
+  margin-top: 20px;
+  line-height: 1.8;
+}
+.heart {
+  color: var(--pink-500);
+  display: inline-block;
+  animation: beat 1.2s ease-in-out infinite;
+}
+@keyframes beat {
+  0%,100% { transform: scale(1); }
+  25% { transform: scale(1.25); }
+}
+
+/* 漂浮装饰 */
+.flt {
+  position: fixed;
+  pointer-events: none;
+  z-index: 0;
+  font-size: 14px;
+  animation: up 6s ease-in-out infinite;
+  opacity: 0.35;
+}
+@keyframes up {
+  0%,100% { transform: translateY(0) rotate(0deg); opacity: 0.2; }
+  50% { transform: translateY(-35px) rotate(180deg); opacity: 0.5; }
+}
+  </style>
+</head>
+<body>
+
+<div class="flt" style="left:5%;top:10%;">🌸</div>
+<div class="flt" style="left:10%;top:75%;font-size:11px;animation-delay:1.5s;">⭐</div>
+<div class="flt" style="left:88%;top:15%;animation-delay:2s;">💖</div>
+<div class="flt" style="left:85%;top:80%;font-size:11px;animation-delay:3s;">✨</div>
+<div class="flt" style="left:3%;top:50%;font-size:12px;animation-delay:4s;">💝</div>
+
+<div class="wrap">
+  <a href="about.html" class="back">← 回去</a>
+
+  <div class="donate-card">
+    <div class="cat-emoji">😺</div>
+    <div class="donate-title">投喂小猫</div>
+    <div class="donate-sub">
+      如果这个工具帮到了你<br>
+      可以请小猫喝一杯喵~ 🥤
+    </div>
+
+    <div class="qr-wrap">
+      <img src="res/pic/donate.jpg" alt="赞赏码" onerror="this.outerHTML='<span style=color:var(--text-muted);font-size:13px;>二维码加载失败了呢~</span>'">
+    </div>
+
+    <div class="thanks">💕 谢谢你的小鱼干 💕</div>
+
+    <div style="font-size:12px;color:var(--text-muted);line-height:1.8;text-align:center;">
+      扫一扫就能投喂小猫猫啦~<br>
+      收到爱心能量后，会更努力更新工具的喵！<br>
+      <span style="font-size:11px;color:var(--pink-300);">（其实写代码的动力全靠小鱼干续命）</span>
+    </div>
+  </div>
+
+  <div class="footer-text">
+    用 <span class="heart">♥</span> 发电 · MC材料转换姬 v1.0 · 2026
+  </div>
+</div>
+
+</body>
+</html>

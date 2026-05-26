@@ -1,0 +1,177 @@
+{
+  "category": "smoking",
+  "count": 9,
+  "recipes": [
+    {
+      "type": "minecraft:smoking",
+      "name": "minecraft:baked_potato_from_smoking",
+      "input": {
+        "1": {
+          "value": "minecraft:potato",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:baked_potato",
+          "count": 1
+        }
+      },
+      "experience": 0.35,
+      "cookTime": 100,
+      "category": "smoking"
+    },
+    {
+      "type": "minecraft:smoking",
+      "name": "minecraft:cooked_beef_from_smoking",
+      "input": {
+        "1": {
+          "value": "minecraft:beef",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cooked_beef",
+          "count": 1
+        }
+      },
+      "experience": 0.35,
+      "cookTime": 100,
+      "category": "smoking"
+    },
+    {
+      "type": "minecraft:smoking",
+      "name": "minecraft:cooked_chicken_from_smoking",
+      "input": {
+        "1": {
+          "value": "minecraft:chicken",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cooked_chicken",
+          "count": 1
+        }
+      },
+      "experience": 0.35,
+      "cookTime": 100,
+      "category": "smoking"
+    },
+    {
+      "type": "minecraft:smoking",
+      "name": "minecraft:cooked_cod_from_smoking",
+      "input": {
+        "1": {
+          "value": "minecraft:cod",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cooked_cod",
+          "count": 1
+        }
+      },
+      "experience": 0.35,
+      "cookTime": 100,
+      "category": "smoking"
+    },
+    {
+      "type": "minecraft:smoking",
+      "name": "minecraft:cooked_mutton_from_smoking",
+      "input": {
+        "1": {
+          "value": "minecraft:mutton",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cooked_mutton",
+          "count": 1
+        }
+      },
+      "experience": 0.35,
+      "cookTime": 100,
+      "category": "smoking"
+    },
+    {
+      "type": "minecraft:smoking",
+      "name": "minecraft:cooked_porkchop_from_smoking",
+      "input": {
+        "1": {
+          "value": "minecraft:porkchop",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cooked_porkchop",
+          "count": 1
+        }
+      },
+      "experience": 0.35,
+      "cookTime": 100,
+      "category": "smoking"
+    },
+    {
+      "type": "minecraft:smoking",
+      "name": "minecraft:cooked_rabbit_from_smoking",
+      "input": {
+        "1": {
+          "value": "minecraft:rabbit",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cooked_rabbit",
+          "count": 1
+        }
+      },
+      "experience": 0.35,
+      "cookTime": 100,
+      "category": "smoking"
+    },
+    {
+      "type": "minecraft:smoking",
+      "name": "minecraft:cooked_salmon_from_smoking",
+      "input": {
+        "1": {
+          "value": "minecraft:salmon",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cooked_salmon",
+          "count": 1
+        }
+      },
+      "experience": 0.35,
+      "cookTime": 100,
+      "category": "smoking"
+    },
+    {
+      "type": "minecraft:smoking",
+      "name": "minecraft:dried_kelp_from_smoking",
+      "input": {
+        "1": {
+          "value": "minecraft:kelp",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:dried_kelp",
+          "count": 1
+        }
+      },
+      "experience": 0.1,
+      "cookTime": 100,
+      "category": "smoking"
+    }
+  ]
+}

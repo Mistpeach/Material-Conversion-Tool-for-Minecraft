@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>关于作者 - MC材料转换姬</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <style>
+body {
+  background: var(--bg-body);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px;
+  overflow: hidden;
+  font-family: 'GameFont', 'Nunito', sans-serif;
+}
+
+.wrap {
+  max-width: 860px;
+  width: 100%;
+}
+
+/* 顶栏 */
+.top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 4px;
+}
+.back {
+  color: var(--pink-500);
+  font-weight: 700;
+  font-size: 13px;
+  text-decoration: none;
+  padding: 4px 12px;
+  border-radius: 20px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  transition: all 0.2s;
+}
+.back:hover { background: var(--pink-100); border-color: var(--pink-300); }
+.ver { font-size: 11px; color: var(--text-muted); font-weight: 600; }
+
+/* 头像行 */
+.hero {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-bottom: 6px;
+}
+.avatar {
+  width: 64px; height: 64px;
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  flex-shrink: 0;
+  overflow: hidden;
+  box-shadow: 0 4px 16px rgba(255,70,144,0.2);
+}
+.avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.name { font-size: 20px; font-weight: 800; background: linear-gradient(135deg,var(--pink-500),var(--pink-700)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+.badge { font-size: 11px; font-weight: 700; color: var(--pink-500); background: var(--pink-100); padding: 2px 12px; border-radius: 20px; display: inline-block; margin-top: 1px; }
+
+/* 卡片容器 */
+.row {
+  display: flex;
+  gap: 6px;
+}
+.card {
+  background: var(--bg-card);
+  border-radius: 16px;
+  padding: 22px 24px;
+  border: 1px solid var(--border);
+}
+.card-title {
+  font-size: 17px;
+  font-weight: 800;
+  color: var(--pink-600);
+  margin-bottom: 10px;
+}
+.card p {
+  font-size: 14px;
+  line-height: 1.9;
+  color: var(--text-secondary);
+}
+
+/* 左侧卡片 */
+.card-left {
+  flex: 1;
+}
+
+/* 右侧两卡片 */
+.card-right-wrap {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.card-right-wrap .card {
+  flex: 1;
+}
+
+/* 技能标签 */
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+.tag {
+  font-size: 11px;
+  font-weight: 700;
+  padding: 4px 11px;
+  border-radius: 14px;
+  background: var(--bg-soft);
+  color: var(--pink-600);
+  border: 1px solid var(--pink-200);
+}
+
+/* 社交 */
+.socials {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.social {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  padding: 7px 12px;
+  border-radius: 10px;
+  background: var(--bg-soft);
+  color: var(--text-secondary);
+  font-size: 12px;
+  font-weight: 700;
+  text-decoration: none;
+  transition: all 0.2s;
+}
+.social:hover {
+  background: var(--pink-100);
+  color: var(--pink-600);
+  transform: translateX(3px);
+}
+
+/* 底部 */
+.footer {
+  font-size: 10px;
+  color: var(--text-muted);
+  text-align: center;
+  margin-top: 6px;
+}
+.heart {
+  color: var(--pink-500);
+  display: inline-block;
+  animation: beat 1.2s ease-in-out infinite;
+}
+@keyframes beat {
+  0%,100% { transform: scale(1); }
+  25% { transform: scale(1.2); }
+}
+
+/* 漂浮装饰 */
+.flt {
+  position: fixed;
+  pointer-events: none;
+  z-index: 0;
+  font-size: 14px;
+  animation: up 6s ease-in-out infinite;
+  opacity: 0.35;
+}
+@keyframes up {
+  0%,100% { transform: translateY(0) rotate(0deg); opacity: 0.2; }
+  50% { transform: translateY(-35px) rotate(180deg); opacity: 0.5; }
+}
+  </style>
+</head>
+<body>
+
+<div class="flt" style="left:3%;top:15%;">🌸</div>
+<div class="flt" style="left:8%;top:65%;font-size:11px;animation-delay:1.5s;">💫</div>
+<div class="flt" style="left:90%;top:10%;animation-delay:2s;">⭐</div>
+<div class="flt" style="left:85%;top:70%;font-size:11px;animation-delay:3s;">✨</div>
+<div class="flt" style="left:95%;top:40%;font-size:12px;animation-delay:4s;">💝</div>
+<div class="flt" style="left:2%;top:88%;font-size:10px;animation-delay:2.5s;">💗</div>
+
+<div class="wrap">
+  <!-- 顶栏 -->
+  <div class="top">
+    <a href="index.html" class="back">← 回去</a>
+    <span class="ver">v1.0</span>
+  </div>
+
+  <!-- 头像 -->
+  <div class="hero">
+    <div class="avatar">
+      <img src="res/pic/logo.jpg" alt="logo" onerror="this.parentElement.innerHTML='🐱';this.parentElement.style.background='linear-gradient(135deg,var(--pink-300),var(--pink-500))';this.parentElement.style.fontSize='28px';">
+    </div>
+    <div>
+      <div class="name">YumFish好吃鱼</div>
+      <span class="badge">💻 一只会写代码的猫</span>
+    </div>
+  </div>
+
+  <!-- 三卡片 -->
+  <div class="row">
+    <!-- 左 -->
+    <div class="card card-left">
+      <div class="card-title">📖 关于</div>
+      <p>
+        一只喜欢 Minecraft 和写代码的小猫娘~<br>
+        写 MC材料转换姬 为了方便生存备料喵！
+      </p>
+    </div>
+
+    <!-- 右 -->
+    <div class="card-right-wrap">
+      <div class="card">
+        <div class="card-title">🛠️ 技能</div>
+        <div class="tags">
+          <span class="tag">JS</span>
+          <span class="tag">HTML/CSS</span>
+          <span class="tag">Node.js</span>
+          <span class="tag">Vue</span>
+          <span class="tag">Python</span>
+          <span class="tag">MC生电</span>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-title">🌐 社交</div>
+        <div class="socials">
+          <a href="https://github.com/Mistpeach/Material-Conversion-Tool-for-Minecraft" class="social" target="_blank" rel="noopener"><span>🐙</span> GitHub</a>
+          <a href="https://space.bilibili.com/355051027" class="social" target="_blank" rel="noopener"><span>📺</span> Bilibili</a>
+          <a href="donate.html" class="social"><span>💝</span> 投喂小猫</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 底部 -->
+  <div class="footer">
+    用 <span class="heart">♥</span> 和鱼鱼干一起做出来哒 · v1.0 · 2026
+  </div>
+</div>
+
+</body>
+</html>

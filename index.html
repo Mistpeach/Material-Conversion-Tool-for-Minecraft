@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MC材料拆拆姬 - 软乎乎的拆料小助手</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- 漂浮装饰 -->
+  <div class="flt" style="left:3%;top:12%;">🌸</div>
+  <div class="flt" style="left:92%;top:8%;font-size:12px;animation-delay:1.8s;">⭐</div>
+  <div class="flt" style="left:6%;top:55%;font-size:11px;animation-delay:2.5s;">💫</div>
+  <div class="flt" style="left:88%;top:60%;font-size:10px;animation-delay:3.5s;">✨</div>
+  <div class="flt" style="left:2%;top:80%;font-size:10px;animation-delay:1.2s;">💗</div>
+  <div class="flt" style="left:96%;top:85%;font-size:13px;animation-delay:4s;">💝</div>
+  <div class="flt" style="left:15%;top:5%;font-size:9px;animation-delay:0.6s;">🍀</div>
+  <div class="flt" style="left:85%;top:50%;font-size:10px;animation-delay:2.2s;">🌟</div>
+  <div class="flt" style="left:50%;top:3%;font-size:8px;animation-delay:1s;">🌈</div>
+  <div class="flt" style="left:40%;top:90%;font-size:11px;animation-delay:3s;">🦋</div>
+  <div class="flt" style="left:70%;top:30%;font-size:9px;animation-delay:0.3s;">🍬</div>
+  <div class="flt" style="left:25%;top:70%;font-size:8px;animation-delay:4.5s;">🎀</div>
+  <div class="flt" style="left:75%;top:75%;font-size:9px;animation-delay:1.5s;">🐚</div>
+  <div class="flt" style="left:45%;top:45%;font-size:7px;animation-delay:3.8s;" class="flt2">🌙</div>
+  <div class="flt" style="left:12%;top:35%;font-size:10px;animation-delay:5.2s;" class="flt2">☁️</div>
+  <div class="flt" style="left:60%;top:10%;font-size:7px;animation-delay:2.7s;">🪷</div>
+  <div class="flt" style="left:30%;top:60%;font-size:8px;animation-delay:0.9s;">🔮</div>
+  <div class="flt" style="left:55%;top:65%;font-size:6px;animation-delay:5.5s;">🎵</div>
+
+
+  <!-- ===== 导入页 ===== -->
+  <div id="import-page" class="page active">
+    <div class="import-container">
+      <!-- Logo区域 -->
+      <div class="import-logo">
+        <div class="logo-icon">⛏️</div>
+        <h1 class="import-title">MC材料拆拆姬</h1>
+        <p class="import-subtitle">Litematica 投影 → 生存备料小帮手喵~</p>
+      </div>
+
+      <!-- 导入区域 -->
+      <div class="import-area">
+                <!-- loadStatus 已移除 -->
+        <div class="import-circle-wrap">
+          <button id="importBtn" class="import-btn">
+            <span class="import-btn-icon">📂</span>
+            <span class="import-btn-text">戳我导入喵~</span>
+          </button>
+          <input type="file" id="fileInput" accept=".csv">
+        </div>
+
+        <div class="import-hint">
+          <span class="hint-icon">💡</span>
+          点上面的按钮选文件喵~ 或者把 <strong>CSV文件</strong> 拖进来就可以啦~
+        </div>
+
+        <a class="guide-btn" href="#" target="_blank" rel="noopener">
+          <span class="guide-icon">📖</span>
+          使用教程喵
+        </a>
+      </div>
+
+      <!-- 底部链接 -->
+      <div class="import-footer">
+        <a class="footer-link" href="https://github.com/Mistpeach/Material-Conversion-Tool-for-Minecraft" target="_blank" rel="noopener">
+          <span class="link-icon">🐙</span>
+          GitHub
+        </a>
+        <span class="footer-divider">·</span>
+        <a class="footer-link" href="about.html" target="_blank" rel="noopener">
+          <span class="link-icon">💜</span>
+          关于作者喵
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== 详情页 ===== -->
+  <div id="detail-page" class="page">
+    <div class="detail-wrapper">
+
+      <!-- 顶部栏 -->
+      <div class="detail-header">
+        <button id="backBtn" class="back-btn">← 回去喵</button>
+        <div class="header-info">
+          <span class="detail-title">📦 材料列表</span>
+          <span id="fileName" class="file-info"></span>
+        </div>
+        <div class="header-actions">
+          <span id="itemCount" class="stat-badge">0 种东西喵</span>
+          <span id="totalCount" class="stat-badge">一共 0 个喵</span>
+          <button id="exportBtn" class="export-btn" onclick="exportCSV()">
+            <span class="export-icon">📥</span>
+            导出CSV喵
+          </button>
+        </div>
+      </div>
+
+      <!-- 内容区 -->
+      <div class="detail-content">
+        <!-- 侧边指南 -->
+        <div class="detail-sidebar">
+          <div class="sidebar-card">
+            <h3 class="sidebar-title">📖 使用指南喵</h3>
+            <div class="guide-text">
+              <p>1. 在首页导入 Litematica 导出的 CSV 文件喵~</p>
+              <p>2. 查看需要的材料清单和数量喵~</p>
+              <p>3. 点击"拆开~"可以把物品拆成原料喵~</p>
+              <p>4. 最后点"导出CSV"就可以保存清单啦喵~</p>
+            </div>
+            <a class="guide-btn sidebar-guide-btn" href="#" target="_blank" rel="noopener">
+              <span class="guide-icon">▶</span>
+              视频教程喵
+            </a>
+          </div>
+        </div>
+
+        <!-- 主列表 -->
+        <div class="detail-main">
+          <div id="itemList" class="item-list">
+            <div class="empty-state">
+              <div class="empty-icon">📦</div>
+              <p>还没有数据呢喵~</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ===== 配方弹窗 ===== -->
+  <div id="modalOverlay" class="modal-overlay">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2 id="modalTitle">合成配方喵</h2>
+        <button class="modal-close" onclick="closeModal()">×</button>
+      </div>
+      <div id="modalBody" class="modal-body">
+        <p style="color:var(--text-muted)">加载中喵...</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== 确认弹窗 ===== -->
+  <div id="confirmOverlay" class="modal-overlay">
+    <div class="modal-content" style="max-width: 420px;">
+      <div class="modal-header">
+        <h2 id="confirmTitle">喵喵确认 ✨</h2>
+      </div>
+      <div id="confirmBody" class="modal-body" style="padding: 20px;">
+        <div id="confirmText" style="font-size: 14px; line-height: 1.7; color: var(--text);"></div>
+      </div>
+      <div class="modal-footer" style="display: flex; gap: 10px; justify-content: flex-end; padding: 14px 20px; border-top: 1px solid var(--border);">
+        <button id="confirmCancelBtn" class="modal-btn modal-btn-cancel">不要啦 ✋</button>
+        <button id="confirmOkBtn" class="modal-btn modal-btn-ok">好喵 ✅</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== Toast 提示 ===== -->
+  <div id="toast" class="toast"></div>
+
+  <!-- ===== 脚本加载 ===== -->
+  <script src="data/lang/js/zh_cn.js"></script>
+  <script src="data/lang/js/en_us.js"></script>
+  <script src="data/recipes/js/shaped.js"></script>
+  <script src="data/recipes/js/shapeless.js"></script>
+  <script src="data/recipes/js/smelting.js"></script>
+  <script src="data/recipes/js/stonecutting.js"></script>
+  <script src="js/app.js"></script>
+
+</body>
+</html>

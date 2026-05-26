@@ -1,0 +1,4681 @@
+﻿var RECIPES_STONECUTTING = {
+  "category": "stonecutting",
+  "count": 275,
+  "recipes": [
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:andesite_slab_from_andesite_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:andesite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:andesite_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:andesite_stairs_from_andesite_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:andesite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:andesite_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:andesite_wall_from_andesite_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:andesite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:andesite_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:blackstone_slab_from_blackstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:blackstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:blackstone_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:blackstone_stairs_from_blackstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:blackstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:blackstone_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:blackstone_wall_from_blackstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:blackstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:blackstone_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:brick_slab_from_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:brick_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:brick_stairs_from_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:brick_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:brick_wall_from_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:brick_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:chiseled_copper_from_copper_block_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:copper_block",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:chiseled_copper",
+          "count": 4
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:chiseled_copper_from_cut_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:chiseled_copper",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:chiseled_deepslate_from_cobbled_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:chiseled_deepslate",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:chiseled_deepslate_from_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:chiseled_deepslate",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:chiseled_nether_bricks_from_nether_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:nether_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:chiseled_nether_bricks",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:chiseled_polished_blackstone_from_blackstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:blackstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:chiseled_polished_blackstone",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:chiseled_polished_blackstone_from_polished_blackstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_blackstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:chiseled_polished_blackstone",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:chiseled_quartz_block_from_quartz_block_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:quartz_block",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:chiseled_quartz_block",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:chiseled_red_sandstone_from_red_sandstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:red_sandstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:chiseled_red_sandstone",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:chiseled_resin_bricks_from_resin_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:resin_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:chiseled_resin_bricks",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:chiseled_sandstone_from_sandstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:sandstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:chiseled_sandstone",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:chiseled_stone_bricks_from_stone_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:stone_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:chiseled_stone_bricks",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:chiseled_stone_bricks_from_stone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:stone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:chiseled_stone_bricks",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:chiseled_tuff_bricks_from_polished_tuff_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_tuff",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:chiseled_tuff_bricks",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:chiseled_tuff_bricks_from_tuff_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:tuff_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:chiseled_tuff_bricks",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:chiseled_tuff_bricks_from_tuff_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:tuff",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:chiseled_tuff_bricks",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:chiseled_tuff_from_tuff_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:tuff",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:chiseled_tuff",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:cobbled_deepslate_from_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cobbled_deepslate",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cobbled_deepslate_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:cobbled_deepslate_slab_from_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cobbled_deepslate_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cobbled_deepslate_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:cobbled_deepslate_stairs_from_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cobbled_deepslate_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cobbled_deepslate_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:cobbled_deepslate_wall_from_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cobbled_deepslate_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:cobblestone_from_stone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:stone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cobblestone",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:cobblestone_slab_from_cobblestone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cobblestone_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:cobblestone_slab_from_stone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:stone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cobblestone_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:cobblestone_stairs_from_cobblestone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cobblestone_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:cobblestone_stairs_from_stone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:stone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cobblestone_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:cobblestone_wall_from_cobblestone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cobblestone_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:cobblestone_wall_from_stone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:stone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cobblestone_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:copper_grate_from_copper_block_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:copper_block",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:copper_grate",
+          "count": 4
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:cut_copper_from_copper_block_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:copper_block",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cut_copper",
+          "count": 4
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:cut_copper_slab_from_copper_block_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:copper_block",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cut_copper_slab",
+          "count": 8
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:cut_copper_slab_from_cut_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cut_copper_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:cut_copper_stairs_from_copper_block_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:copper_block",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cut_copper_stairs",
+          "count": 4
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:cut_copper_stairs_from_cut_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cut_copper_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:cut_red_sandstone_from_red_sandstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:red_sandstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cut_red_sandstone",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:cut_red_sandstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cut_red_sandstone_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:cut_red_sandstone_slab_from_red_sandstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:red_sandstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cut_red_sandstone_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:cut_sandstone_from_sandstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:sandstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cut_sandstone",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:cut_sandstone_slab_from_cut_sandstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:cut_sandstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cut_sandstone_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:cut_sandstone_slab_from_sandstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:sandstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cut_sandstone_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:dark_prismarine_slab_from_dark_prismarine_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:dark_prismarine",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:dark_prismarine_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:dark_prismarine_stairs_from_dark_prismarine_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:dark_prismarine",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:dark_prismarine_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_brick_slab_from_cobbled_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_brick_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_brick_slab_from_deepslate_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_brick_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_brick_slab_from_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_brick_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_brick_slab_from_polished_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_brick_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_brick_stairs_from_cobbled_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_brick_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_brick_stairs_from_deepslate_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_brick_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_brick_stairs_from_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_brick_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_brick_stairs_from_polished_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_brick_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_brick_wall_from_cobbled_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_brick_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_brick_wall_from_deepslate_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_brick_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_brick_wall_from_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_brick_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_brick_wall_from_polished_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_brick_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_bricks_from_cobbled_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_bricks",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_bricks_from_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_bricks",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_bricks_from_polished_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_bricks",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_tile_slab_from_cobbled_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_tile_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_tile_slab_from_deepslate_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_tile_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_tile_slab_from_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_tile_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_tile_slab_from_deepslate_tiles_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate_tiles",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_tile_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_tile_slab_from_polished_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_tile_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_tile_stairs_from_cobbled_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_tile_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_tile_stairs_from_deepslate_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_tile_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_tile_stairs_from_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_tile_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_tile_stairs_from_deepslate_tiles_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate_tiles",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_tile_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_tile_stairs_from_polished_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_tile_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_tile_wall_from_cobbled_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_tile_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_tile_wall_from_deepslate_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_tile_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_tile_wall_from_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_tile_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_tile_wall_from_deepslate_tiles_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate_tiles",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_tile_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_tile_wall_from_polished_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_tile_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_tiles_from_cobbled_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_tiles",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_tiles_from_deepslate_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_tiles",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_tiles_from_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_tiles",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:deepslate_tiles_from_polished_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_tiles",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:diorite_slab_from_diorite_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:diorite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:diorite_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:diorite_stairs_from_diorite_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:diorite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:diorite_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:diorite_wall_from_diorite_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:diorite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:diorite_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:end_stone_brick_slab_from_end_stone_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:end_stone_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:end_stone_brick_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:end_stone_brick_slab_from_end_stone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:end_stone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:end_stone_brick_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:end_stone_brick_stairs_from_end_stone_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:end_stone_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:end_stone_brick_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:end_stone_brick_stairs_from_end_stone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:end_stone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:end_stone_brick_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:end_stone_brick_wall_from_end_stone_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:end_stone_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:end_stone_brick_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:end_stone_brick_wall_from_end_stone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:end_stone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:end_stone_brick_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:end_stone_bricks_from_end_stone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:end_stone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:end_stone_bricks",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:exposed_chiseled_copper_from_exposed_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:exposed_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:exposed_chiseled_copper",
+          "count": 4
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:exposed_chiseled_copper_from_exposed_cut_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:exposed_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:exposed_chiseled_copper",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:exposed_copper_grate_from_exposed_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:exposed_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:exposed_copper_grate",
+          "count": 4
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:exposed_cut_copper_from_exposed_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:exposed_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:exposed_cut_copper",
+          "count": 4
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:exposed_cut_copper_slab_from_exposed_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:exposed_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:exposed_cut_copper_slab",
+          "count": 8
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:exposed_cut_copper_slab_from_exposed_cut_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:exposed_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:exposed_cut_copper_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:exposed_cut_copper_stairs_from_exposed_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:exposed_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:exposed_cut_copper_stairs",
+          "count": 4
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:exposed_cut_copper_stairs_from_exposed_cut_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:exposed_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:exposed_cut_copper_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:granite_slab_from_granite_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:granite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:granite_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:granite_stairs_from_granite_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:granite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:granite_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:granite_wall_from_granite_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:granite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:granite_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:mossy_cobblestone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:mossy_cobblestone_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:mossy_cobblestone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:mossy_cobblestone_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:mossy_cobblestone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:mossy_cobblestone_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:mossy_stone_brick_slab_from_mossy_stone_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:mossy_stone_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:mossy_stone_brick_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:mossy_stone_brick_stairs_from_mossy_stone_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:mossy_stone_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:mossy_stone_brick_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:mossy_stone_brick_wall_from_mossy_stone_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:mossy_stone_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:mossy_stone_brick_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:mud_brick_slab_from_mud_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:mud_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:mud_brick_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:mud_brick_stairs_from_mud_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:mud_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:mud_brick_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:mud_brick_wall_from_mud_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:mud_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:mud_brick_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:nether_brick_slab_from_nether_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:nether_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:nether_brick_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:nether_brick_stairs_from_nether_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:nether_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:nether_brick_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:nether_brick_wall_from_nether_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:nether_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:nether_brick_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:oxidized_chiseled_copper_from_oxidized_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:oxidized_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:oxidized_chiseled_copper",
+          "count": 4
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:oxidized_chiseled_copper_from_oxidized_cut_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:oxidized_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:oxidized_chiseled_copper",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:oxidized_copper_grate_from_oxidized_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:oxidized_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:oxidized_copper_grate",
+          "count": 4
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:oxidized_cut_copper_from_oxidized_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:oxidized_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:oxidized_cut_copper",
+          "count": 4
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:oxidized_cut_copper_slab_from_oxidized_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:oxidized_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:oxidized_cut_copper_slab",
+          "count": 8
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:oxidized_cut_copper_slab_from_oxidized_cut_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:oxidized_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:oxidized_cut_copper_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:oxidized_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:oxidized_cut_copper_stairs",
+          "count": 4
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:oxidized_cut_copper_stairs_from_oxidized_cut_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:oxidized_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:oxidized_cut_copper_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_andesite_from_andesite_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:andesite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_andesite",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_andesite_slab_from_andesite_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:andesite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_andesite_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_andesite_slab_from_polished_andesite_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_andesite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_andesite_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_andesite_stairs_from_andesite_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:andesite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_andesite_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_andesite_stairs_from_polished_andesite_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_andesite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_andesite_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_basalt_from_basalt_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:basalt",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_basalt",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_blackstone_brick_slab_from_blackstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:blackstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_blackstone_brick_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_blackstone_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_blackstone_brick_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_blackstone_brick_slab_from_polished_blackstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_blackstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_blackstone_brick_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_blackstone_brick_stairs_from_blackstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:blackstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_blackstone_brick_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_blackstone_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_blackstone_brick_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_blackstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_blackstone_brick_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_blackstone_brick_wall_from_blackstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:blackstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_blackstone_brick_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_blackstone_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_blackstone_brick_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_blackstone_brick_wall_from_polished_blackstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_blackstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_blackstone_brick_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_blackstone_bricks_from_blackstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:blackstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_blackstone_bricks",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_blackstone_bricks_from_polished_blackstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_blackstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_blackstone_bricks",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_blackstone_from_blackstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:blackstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_blackstone",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_blackstone_slab_from_blackstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:blackstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_blackstone_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_blackstone_slab_from_polished_blackstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_blackstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_blackstone_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_blackstone_stairs_from_blackstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:blackstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_blackstone_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_blackstone_stairs_from_polished_blackstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_blackstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_blackstone_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_blackstone_wall_from_blackstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:blackstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_blackstone_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_blackstone_wall_from_polished_blackstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_blackstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_blackstone_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_deepslate_from_cobbled_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_deepslate",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_deepslate_from_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_deepslate",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_deepslate_slab_from_cobbled_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_deepslate_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_deepslate_slab_from_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_deepslate_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_deepslate_slab_from_polished_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_deepslate_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_deepslate_stairs_from_cobbled_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_deepslate_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_deepslate_stairs_from_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_deepslate_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_deepslate_stairs_from_polished_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_deepslate_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_deepslate_wall_from_cobbled_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_deepslate_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_deepslate_wall_from_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_deepslate_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_deepslate_wall_from_polished_deepslate_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_deepslate_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_diorite_from_diorite_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:diorite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_diorite",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_diorite_slab_from_diorite_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:diorite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_diorite_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_diorite_slab_from_polished_diorite_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_diorite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_diorite_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_diorite_stairs_from_diorite_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:diorite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_diorite_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_diorite_stairs_from_polished_diorite_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_diorite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_diorite_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_granite_from_granite_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:granite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_granite",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_granite_slab_from_granite_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:granite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_granite_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_granite_slab_from_polished_granite_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_granite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_granite_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_granite_stairs_from_granite_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:granite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_granite_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_granite_stairs_from_polished_granite_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_granite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_granite_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_tuff_from_tuff_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:tuff",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_tuff",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_tuff_slab_from_polished_tuff_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_tuff",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_tuff_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_tuff_slab_from_tuff_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:tuff",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_tuff_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_tuff_stairs_from_polished_tuff_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_tuff",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_tuff_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_tuff_stairs_from_tuff_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:tuff",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_tuff_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_tuff_wall_from_polished_tuff_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_tuff",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_tuff_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:polished_tuff_wall_from_tuff_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:tuff",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_tuff_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:prismarine_brick_slab_from_prismarine_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:prismarine_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:prismarine_brick_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:prismarine_brick_stairs_from_prismarine_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:prismarine_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:prismarine_brick_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:prismarine_slab_from_prismarine_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:prismarine",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:prismarine_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:prismarine_stairs_from_prismarine_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:prismarine",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:prismarine_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:prismarine_wall_from_prismarine_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:prismarine",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:prismarine_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:purpur_pillar_from_purpur_block_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:purpur_block",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:purpur_pillar",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:purpur_slab_from_purpur_block_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:purpur_block",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:purpur_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:purpur_stairs_from_purpur_block_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:purpur_block",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:purpur_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:quartz_bricks_from_quartz_block_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:quartz_block",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:quartz_bricks",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:quartz_pillar_from_quartz_block_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:quartz_block",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:quartz_pillar",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:quartz_slab_from_quartz_block_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:quartz_block",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:quartz_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:quartz_stairs_from_quartz_block_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:quartz_block",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:quartz_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:red_nether_brick_slab_from_red_nether_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:red_nether_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:red_nether_brick_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:red_nether_brick_stairs_from_red_nether_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:red_nether_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:red_nether_brick_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:red_nether_brick_wall_from_red_nether_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:red_nether_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:red_nether_brick_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:red_sandstone_slab_from_red_sandstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:red_sandstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:red_sandstone_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:red_sandstone_stairs_from_red_sandstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:red_sandstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:red_sandstone_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:red_sandstone_wall_from_red_sandstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:red_sandstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:red_sandstone_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:resin_brick_slab_from_resin_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:resin_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:resin_brick_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:resin_brick_stairs_from_resin_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:resin_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:resin_brick_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:resin_brick_wall_from_resin_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:resin_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:resin_brick_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:sandstone_slab_from_sandstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:sandstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:sandstone_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:sandstone_stairs_from_sandstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:sandstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:sandstone_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:sandstone_wall_from_sandstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:sandstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:sandstone_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:smooth_quartz_slab_from_smooth_quartz_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:smooth_quartz",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:smooth_quartz_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:smooth_quartz_stairs_from_smooth_quartz_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:smooth_quartz",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:smooth_quartz_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:smooth_red_sandstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:smooth_red_sandstone_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:smooth_red_sandstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:smooth_red_sandstone_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:smooth_sandstone_slab_from_smooth_sandstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:smooth_sandstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:smooth_sandstone_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:smooth_sandstone_stairs_from_smooth_sandstone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:smooth_sandstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:smooth_sandstone_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:smooth_stone_slab_from_smooth_stone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:smooth_stone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:smooth_stone_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:stone_brick_slab_from_stone_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:stone_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stone_brick_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:stone_brick_slab_from_stone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:stone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stone_brick_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:stone_brick_stairs_from_stone_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:stone_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stone_brick_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:stone_brick_stairs_from_stone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:stone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stone_brick_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:stone_brick_wall_from_stone_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:stone_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stone_brick_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:stone_brick_wall_from_stone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:stone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stone_brick_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:stone_bricks_from_stone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:stone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stone_bricks",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:stone_slab_from_stone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:stone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stone_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:stone_stairs_from_stone_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:stone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stone_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:tuff_brick_slab_from_polished_tuff_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_tuff",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:tuff_brick_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:tuff_brick_slab_from_tuff_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:tuff_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:tuff_brick_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:tuff_brick_slab_from_tuff_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:tuff",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:tuff_brick_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:tuff_brick_stairs_from_polished_tuff_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_tuff",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:tuff_brick_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:tuff_brick_stairs_from_tuff_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:tuff_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:tuff_brick_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:tuff_brick_stairs_from_tuff_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:tuff",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:tuff_brick_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:tuff_brick_wall_from_polished_tuff_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_tuff",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:tuff_brick_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:tuff_brick_wall_from_tuff_bricks_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:tuff_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:tuff_brick_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:tuff_brick_wall_from_tuff_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:tuff",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:tuff_brick_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:tuff_bricks_from_polished_tuff_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_tuff",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:tuff_bricks",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:tuff_bricks_from_tuff_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:tuff",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:tuff_bricks",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:tuff_slab_from_tuff_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:tuff",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:tuff_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:tuff_stairs_from_tuff_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:tuff",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:tuff_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:tuff_wall_from_tuff_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:tuff",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:tuff_wall",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:waxed_chiseled_copper_from_waxed_copper_block_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_copper_block",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_chiseled_copper",
+          "count": 4
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:waxed_chiseled_copper_from_waxed_cut_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_chiseled_copper",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:waxed_copper_grate_from_waxed_copper_block_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_copper_block",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_copper_grate",
+          "count": 4
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:waxed_cut_copper_from_waxed_copper_block_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_copper_block",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_cut_copper",
+          "count": 4
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:waxed_cut_copper_slab_from_waxed_copper_block_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_copper_block",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_cut_copper_slab",
+          "count": 8
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_cut_copper_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_copper_block",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_cut_copper_stairs",
+          "count": 4
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_cut_copper_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:waxed_exposed_chiseled_copper_from_waxed_exposed_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_exposed_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_exposed_chiseled_copper",
+          "count": 4
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:waxed_exposed_chiseled_copper_from_waxed_exposed_cut_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_exposed_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_exposed_chiseled_copper",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:waxed_exposed_copper_grate_from_waxed_exposed_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_exposed_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_exposed_copper_grate",
+          "count": 4
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:waxed_exposed_cut_copper_from_waxed_exposed_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_exposed_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_exposed_cut_copper",
+          "count": 4
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:waxed_exposed_cut_copper_slab_from_waxed_exposed_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_exposed_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_exposed_cut_copper_slab",
+          "count": 8
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:waxed_exposed_cut_copper_slab_from_waxed_exposed_cut_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_exposed_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_exposed_cut_copper_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:waxed_exposed_cut_copper_stairs_from_waxed_exposed_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_exposed_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_exposed_cut_copper_stairs",
+          "count": 4
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:waxed_exposed_cut_copper_stairs_from_waxed_exposed_cut_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_exposed_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_exposed_cut_copper_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:waxed_oxidized_chiseled_copper_from_waxed_oxidized_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_oxidized_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_oxidized_chiseled_copper",
+          "count": 4
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:waxed_oxidized_chiseled_copper_from_waxed_oxidized_cut_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_oxidized_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_oxidized_chiseled_copper",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:waxed_oxidized_copper_grate_from_waxed_oxidized_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_oxidized_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_oxidized_copper_grate",
+          "count": 4
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:waxed_oxidized_cut_copper_from_waxed_oxidized_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_oxidized_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_oxidized_cut_copper",
+          "count": 4
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:waxed_oxidized_cut_copper_slab_from_waxed_oxidized_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_oxidized_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_oxidized_cut_copper_slab",
+          "count": 8
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_oxidized_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_oxidized_cut_copper_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_oxidized_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_oxidized_cut_copper_stairs",
+          "count": 4
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_oxidized_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_oxidized_cut_copper_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:waxed_weathered_chiseled_copper_from_waxed_weathered_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_weathered_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_weathered_chiseled_copper",
+          "count": 4
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:waxed_weathered_chiseled_copper_from_waxed_weathered_cut_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_weathered_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_weathered_chiseled_copper",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:waxed_weathered_copper_grate_from_waxed_weathered_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_weathered_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_weathered_copper_grate",
+          "count": 4
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:waxed_weathered_cut_copper_from_waxed_weathered_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_weathered_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_weathered_cut_copper",
+          "count": 4
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:waxed_weathered_cut_copper_slab_from_waxed_weathered_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_weathered_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_weathered_cut_copper_slab",
+          "count": 8
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:waxed_weathered_cut_copper_slab_from_waxed_weathered_cut_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_weathered_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_weathered_cut_copper_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:waxed_weathered_cut_copper_stairs_from_waxed_weathered_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_weathered_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_weathered_cut_copper_stairs",
+          "count": 4
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:waxed_weathered_cut_copper_stairs_from_waxed_weathered_cut_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_weathered_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_weathered_cut_copper_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:weathered_chiseled_copper_from_weathered_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:weathered_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:weathered_chiseled_copper",
+          "count": 4
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:weathered_chiseled_copper_from_weathered_cut_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:weathered_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:weathered_chiseled_copper",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:weathered_copper_grate_from_weathered_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:weathered_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:weathered_copper_grate",
+          "count": 4
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:weathered_cut_copper_from_weathered_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:weathered_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:weathered_cut_copper",
+          "count": 4
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:weathered_cut_copper_slab_from_weathered_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:weathered_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:weathered_cut_copper_slab",
+          "count": 8
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:weathered_cut_copper_slab_from_weathered_cut_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:weathered_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:weathered_cut_copper_slab",
+          "count": 2
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:weathered_cut_copper_stairs_from_weathered_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:weathered_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:weathered_cut_copper_stairs",
+          "count": 4
+        }
+      },
+      "category": "stonecutting"
+    },
+    {
+      "type": "minecraft:stonecutting",
+      "name": "minecraft:weathered_cut_copper_stairs_from_weathered_cut_copper_stonecutting",
+      "input": {
+        "1": {
+          "value": "minecraft:weathered_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:weathered_cut_copper_stairs",
+          "count": 1
+        }
+      },
+      "category": "stonecutting"
+    }
+  ]
+};

@@ -1,0 +1,27620 @@
+﻿var RECIPES_SHAPED = {
+  "category": "crafting_shaped",
+  "count": 708,
+  "recipes": [
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:acacia_boat",
+      "input": {
+        "1": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:acacia_boat",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:acacia_door",
+      "input": {
+        "1": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:acacia_door",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:acacia_fence",
+      "input": {
+        "1": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:acacia_fence",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:acacia_fence_gate",
+      "input": {
+        "1": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:acacia_fence_gate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:acacia_hanging_sign",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_chain",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:iron_chain",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stripped_acacia_log",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stripped_acacia_log",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:stripped_acacia_log",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stripped_acacia_log",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stripped_acacia_log",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:stripped_acacia_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:acacia_hanging_sign",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:acacia_pressure_plate",
+      "input": {
+        "1": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:acacia_pressure_plate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:acacia_shelf",
+      "input": {
+        "1": {
+          "value": "minecraft:stripped_acacia_log",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stripped_acacia_log",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stripped_acacia_log",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stripped_acacia_log",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stripped_acacia_log",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:stripped_acacia_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:acacia_shelf",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:acacia_sign",
+      "input": {
+        "1": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:acacia_sign",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:acacia_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:acacia_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:acacia_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:acacia_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:acacia_trapdoor",
+      "input": {
+        "1": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:acacia_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:acacia_trapdoor",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:acacia_wood",
+      "input": {
+        "1": {
+          "value": "minecraft:acacia_log",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:acacia_log",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:acacia_log",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:acacia_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:acacia_wood",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:activator_rail",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:redstone_torch",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:activator_rail",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:amethyst_block",
+      "input": {
+        "1": {
+          "value": "minecraft:amethyst_shard",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:amethyst_shard",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:amethyst_shard",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:amethyst_shard",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:amethyst_block",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:andesite_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:andesite",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:andesite",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:andesite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:andesite_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:andesite_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:andesite",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:andesite",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:andesite",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:andesite",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:andesite",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:andesite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:andesite_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:andesite_wall",
+      "input": {
+        "1": {
+          "value": "minecraft:andesite",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:andesite",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:andesite",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:andesite",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:andesite",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:andesite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:andesite_wall",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:anvil",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_block",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:iron_block",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:iron_block",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:anvil",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:armor_stand",
+      "input": {
+        "1": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:smooth_stone_slab",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:armor_stand",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:arrow",
+      "input": {
+        "1": {
+          "value": "minecraft:flint",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:feather",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:arrow",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:bamboo_door",
+      "input": {
+        "1": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:bamboo_door",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:bamboo_fence",
+      "input": {
+        "1": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:bamboo_fence",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:bamboo_fence_gate",
+      "input": {
+        "1": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:bamboo_fence_gate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:bamboo_hanging_sign",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_chain",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:iron_chain",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stripped_bamboo_block",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stripped_bamboo_block",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:stripped_bamboo_block",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stripped_bamboo_block",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stripped_bamboo_block",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:stripped_bamboo_block",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:bamboo_hanging_sign",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:bamboo_mosaic",
+      "input": {
+        "1": {
+          "value": "minecraft:bamboo_slab",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:bamboo_slab",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:bamboo_mosaic",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:bamboo_mosaic_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:bamboo_mosaic",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:bamboo_mosaic",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:bamboo_mosaic",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:bamboo_mosaic_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:bamboo_mosaic_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:bamboo_mosaic",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:bamboo_mosaic",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:bamboo_mosaic",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:bamboo_mosaic",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:bamboo_mosaic",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:bamboo_mosaic",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:bamboo_mosaic_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:bamboo_pressure_plate",
+      "input": {
+        "1": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:bamboo_pressure_plate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:bamboo_raft",
+      "input": {
+        "1": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:bamboo_raft",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:bamboo_shelf",
+      "input": {
+        "1": {
+          "value": "minecraft:stripped_bamboo_block",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stripped_bamboo_block",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stripped_bamboo_block",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stripped_bamboo_block",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stripped_bamboo_block",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:stripped_bamboo_block",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:bamboo_shelf",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:bamboo_sign",
+      "input": {
+        "1": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:bamboo_sign",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:bamboo_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:bamboo_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:bamboo_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:bamboo_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:bamboo_trapdoor",
+      "input": {
+        "1": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:bamboo_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:bamboo_trapdoor",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:barrel",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "2": {
+          "value": [
+            "minecraft:oak_slab",
+            "minecraft:spruce_slab",
+            "minecraft:birch_slab",
+            "minecraft:jungle_slab",
+            "minecraft:acacia_slab",
+            "minecraft:dark_oak_slab",
+            "minecraft:pale_oak_slab",
+            "minecraft:crimson_slab",
+            "minecraft:warped_slab",
+            "minecraft:mangrove_slab",
+            "minecraft:bamboo_slab",
+            "minecraft:cherry_slab"
+          ],
+          "count": 1
+        },
+        "3": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "6": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "7": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "8": {
+          "value": [
+            "minecraft:oak_slab",
+            "minecraft:spruce_slab",
+            "minecraft:birch_slab",
+            "minecraft:jungle_slab",
+            "minecraft:acacia_slab",
+            "minecraft:dark_oak_slab",
+            "minecraft:pale_oak_slab",
+            "minecraft:crimson_slab",
+            "minecraft:warped_slab",
+            "minecraft:mangrove_slab",
+            "minecraft:bamboo_slab",
+            "minecraft:cherry_slab"
+          ],
+          "count": 1
+        },
+        "9": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:barrel",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:beacon",
+      "input": {
+        "1": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:nether_star",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:obsidian",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:obsidian",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:obsidian",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:beacon",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:beehive",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "2": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "3": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:honeycomb",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:honeycomb",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:honeycomb",
+          "count": 1
+        },
+        "7": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "8": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "9": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:beehive",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:birch_boat",
+      "input": {
+        "1": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:birch_boat",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:birch_door",
+      "input": {
+        "1": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:birch_door",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:birch_fence",
+      "input": {
+        "1": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:birch_fence",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:birch_fence_gate",
+      "input": {
+        "1": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:birch_fence_gate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:birch_hanging_sign",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_chain",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:iron_chain",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stripped_birch_log",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stripped_birch_log",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:stripped_birch_log",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stripped_birch_log",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stripped_birch_log",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:stripped_birch_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:birch_hanging_sign",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:birch_pressure_plate",
+      "input": {
+        "1": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:birch_pressure_plate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:birch_shelf",
+      "input": {
+        "1": {
+          "value": "minecraft:stripped_birch_log",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stripped_birch_log",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stripped_birch_log",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stripped_birch_log",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stripped_birch_log",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:stripped_birch_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:birch_shelf",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:birch_sign",
+      "input": {
+        "1": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:birch_sign",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:birch_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:birch_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:birch_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:birch_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:birch_trapdoor",
+      "input": {
+        "1": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:birch_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:birch_trapdoor",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:birch_wood",
+      "input": {
+        "1": {
+          "value": "minecraft:birch_log",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:birch_log",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:birch_log",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:birch_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:birch_wood",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:black_banner",
+      "input": {
+        "1": {
+          "value": "minecraft:black_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:black_wool",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:black_wool",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:black_wool",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:black_wool",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:black_wool",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:black_banner",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:black_bed",
+      "input": {
+        "1": {
+          "value": "minecraft:black_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:black_wool",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:black_wool",
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "6": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:black_bed",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:black_carpet",
+      "input": {
+        "1": {
+          "value": "minecraft:black_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:black_wool",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:black_carpet",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:black_harness",
+      "input": {
+        "1": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:black_wool",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:black_harness",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:black_stained_glass",
+      "input": {
+        "1": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:black_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:black_stained_glass",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:black_stained_glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:black_stained_glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:black_stained_glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:black_stained_glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:black_stained_glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:black_stained_glass",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:black_stained_glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:black_stained_glass_pane",
+          "count": 16
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:black_stained_glass_pane_from_glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:black_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:black_stained_glass_pane",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:black_terracotta",
+      "input": {
+        "1": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:black_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:black_terracotta",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:blackstone_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:blackstone",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:blackstone",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:blackstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:blackstone_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:blackstone_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:blackstone",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:blackstone",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:blackstone",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:blackstone",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:blackstone",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:blackstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:blackstone_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:blackstone_wall",
+      "input": {
+        "1": {
+          "value": "minecraft:blackstone",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:blackstone",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:blackstone",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:blackstone",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:blackstone",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:blackstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:blackstone_wall",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:blast_furnace",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:furnace",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:smooth_stone",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:smooth_stone",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:smooth_stone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:blast_furnace",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:blue_banner",
+      "input": {
+        "1": {
+          "value": "minecraft:blue_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:blue_wool",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:blue_wool",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:blue_wool",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:blue_wool",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:blue_wool",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:blue_banner",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:blue_bed",
+      "input": {
+        "1": {
+          "value": "minecraft:blue_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:blue_wool",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:blue_wool",
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "6": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:blue_bed",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:blue_carpet",
+      "input": {
+        "1": {
+          "value": "minecraft:blue_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:blue_wool",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:blue_carpet",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:blue_harness",
+      "input": {
+        "1": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:blue_wool",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:blue_harness",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:blue_stained_glass",
+      "input": {
+        "1": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:blue_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:blue_stained_glass",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:blue_stained_glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:blue_stained_glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:blue_stained_glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:blue_stained_glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:blue_stained_glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:blue_stained_glass",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:blue_stained_glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:blue_stained_glass_pane",
+          "count": 16
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:blue_stained_glass_pane_from_glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:blue_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:blue_stained_glass_pane",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:blue_terracotta",
+      "input": {
+        "1": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:blue_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:blue_terracotta",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:bolt_armor_trim_smithing_template",
+      "input": {
+        "1": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:bolt_armor_trim_smithing_template",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:copper_block",
+            "minecraft:waxed_copper_block"
+          ],
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:diamond",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:bolt_armor_trim_smithing_template",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:bone_block",
+      "input": {
+        "1": {
+          "value": "minecraft:bone_meal",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:bone_meal",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:bone_meal",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:bone_meal",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:bone_meal",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:bone_meal",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:bone_meal",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:bone_meal",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:bone_meal",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:bone_block",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:bookshelf",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "2": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "3": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:book",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:book",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:book",
+          "count": 1
+        },
+        "7": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "8": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "9": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:bookshelf",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:bow",
+      "input": {
+        "2": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:string",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:string",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:string",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:bow",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:bowl",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "3": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:bowl",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:bread",
+      "input": {
+        "1": {
+          "value": "minecraft:wheat",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:wheat",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:wheat",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:bread",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:brewing_stand",
+      "input": {
+        "2": {
+          "value": "minecraft:blaze_rod",
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:cobblestone",
+            "minecraft:blackstone",
+            "minecraft:cobbled_deepslate"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:cobblestone",
+            "minecraft:blackstone",
+            "minecraft:cobbled_deepslate"
+          ],
+          "count": 1
+        },
+        "6": {
+          "value": [
+            "minecraft:cobblestone",
+            "minecraft:blackstone",
+            "minecraft:cobbled_deepslate"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:brewing_stand",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:brick_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:bricks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:bricks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:brick_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:brick_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:bricks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:bricks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:bricks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:bricks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:bricks",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:brick_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:brick_wall",
+      "input": {
+        "1": {
+          "value": "minecraft:bricks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:bricks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:bricks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:bricks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:bricks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:brick_wall",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:bricks",
+      "input": {
+        "1": {
+          "value": "minecraft:brick",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:brick",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:brick",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:brick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:bricks",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:brown_banner",
+      "input": {
+        "1": {
+          "value": "minecraft:brown_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:brown_wool",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:brown_wool",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:brown_wool",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:brown_wool",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:brown_wool",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:brown_banner",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:brown_bed",
+      "input": {
+        "1": {
+          "value": "minecraft:brown_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:brown_wool",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:brown_wool",
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "6": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:brown_bed",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:brown_carpet",
+      "input": {
+        "1": {
+          "value": "minecraft:brown_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:brown_wool",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:brown_carpet",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:brown_harness",
+      "input": {
+        "1": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:brown_wool",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:brown_harness",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:brown_stained_glass",
+      "input": {
+        "1": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:brown_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:brown_stained_glass",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:brown_stained_glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:brown_stained_glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:brown_stained_glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:brown_stained_glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:brown_stained_glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:brown_stained_glass",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:brown_stained_glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:brown_stained_glass_pane",
+          "count": 16
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:brown_stained_glass_pane_from_glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:brown_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:brown_stained_glass_pane",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:brown_terracotta",
+      "input": {
+        "1": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:brown_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:brown_terracotta",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:brush",
+      "input": {
+        "1": {
+          "value": "minecraft:feather",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:brush",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:bucket",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:bucket",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:bundle",
+      "input": {
+        "1": {
+          "value": "minecraft:string",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:leather",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:bundle",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cake",
+      "input": {
+        "1": {
+          "value": "minecraft:milk_bucket",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:milk_bucket",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:milk_bucket",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:sugar",
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:egg",
+            "minecraft:blue_egg",
+            "minecraft:brown_egg"
+          ],
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:sugar",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:wheat",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:wheat",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:wheat",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cake",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:calibrated_sculk_sensor",
+      "input": {
+        "2": {
+          "value": "minecraft:amethyst_shard",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:amethyst_shard",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:sculk_sensor",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:amethyst_shard",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:calibrated_sculk_sensor",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:campfire",
+      "input": {
+        "2": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:coal",
+            "minecraft:charcoal"
+          ],
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "7": {
+          "value": [
+            "minecraft:dark_oak_log",
+            "minecraft:dark_oak_wood",
+            "minecraft:stripped_dark_oak_log",
+            "minecraft:stripped_dark_oak_wood",
+            "minecraft:pale_oak_log",
+            "minecraft:pale_oak_wood",
+            "minecraft:stripped_pale_oak_log",
+            "minecraft:stripped_pale_oak_wood",
+            "minecraft:oak_log",
+            "minecraft:oak_wood",
+            "minecraft:stripped_oak_log",
+            "minecraft:stripped_oak_wood",
+            "minecraft:acacia_log",
+            "minecraft:acacia_wood",
+            "minecraft:stripped_acacia_log",
+            "minecraft:stripped_acacia_wood",
+            "minecraft:birch_log",
+            "minecraft:birch_wood",
+            "minecraft:stripped_birch_log",
+            "minecraft:stripped_birch_wood",
+            "minecraft:jungle_log",
+            "minecraft:jungle_wood",
+            "minecraft:stripped_jungle_log",
+            "minecraft:stripped_jungle_wood",
+            "minecraft:spruce_log",
+            "minecraft:spruce_wood",
+            "minecraft:stripped_spruce_log",
+            "minecraft:stripped_spruce_wood",
+            "minecraft:mangrove_log",
+            "minecraft:mangrove_wood",
+            "minecraft:stripped_mangrove_log",
+            "minecraft:stripped_mangrove_wood",
+            "minecraft:cherry_log",
+            "minecraft:cherry_wood",
+            "minecraft:stripped_cherry_log",
+            "minecraft:stripped_cherry_wood",
+            "minecraft:crimson_stem",
+            "minecraft:stripped_crimson_stem",
+            "minecraft:crimson_hyphae",
+            "minecraft:stripped_crimson_hyphae",
+            "minecraft:warped_stem",
+            "minecraft:stripped_warped_stem",
+            "minecraft:warped_hyphae",
+            "minecraft:stripped_warped_hyphae"
+          ],
+          "count": 1
+        },
+        "8": {
+          "value": [
+            "minecraft:dark_oak_log",
+            "minecraft:dark_oak_wood",
+            "minecraft:stripped_dark_oak_log",
+            "minecraft:stripped_dark_oak_wood",
+            "minecraft:pale_oak_log",
+            "minecraft:pale_oak_wood",
+            "minecraft:stripped_pale_oak_log",
+            "minecraft:stripped_pale_oak_wood",
+            "minecraft:oak_log",
+            "minecraft:oak_wood",
+            "minecraft:stripped_oak_log",
+            "minecraft:stripped_oak_wood",
+            "minecraft:acacia_log",
+            "minecraft:acacia_wood",
+            "minecraft:stripped_acacia_log",
+            "minecraft:stripped_acacia_wood",
+            "minecraft:birch_log",
+            "minecraft:birch_wood",
+            "minecraft:stripped_birch_log",
+            "minecraft:stripped_birch_wood",
+            "minecraft:jungle_log",
+            "minecraft:jungle_wood",
+            "minecraft:stripped_jungle_log",
+            "minecraft:stripped_jungle_wood",
+            "minecraft:spruce_log",
+            "minecraft:spruce_wood",
+            "minecraft:stripped_spruce_log",
+            "minecraft:stripped_spruce_wood",
+            "minecraft:mangrove_log",
+            "minecraft:mangrove_wood",
+            "minecraft:stripped_mangrove_log",
+            "minecraft:stripped_mangrove_wood",
+            "minecraft:cherry_log",
+            "minecraft:cherry_wood",
+            "minecraft:stripped_cherry_log",
+            "minecraft:stripped_cherry_wood",
+            "minecraft:crimson_stem",
+            "minecraft:stripped_crimson_stem",
+            "minecraft:crimson_hyphae",
+            "minecraft:stripped_crimson_hyphae",
+            "minecraft:warped_stem",
+            "minecraft:stripped_warped_stem",
+            "minecraft:warped_hyphae",
+            "minecraft:stripped_warped_hyphae"
+          ],
+          "count": 1
+        },
+        "9": {
+          "value": [
+            "minecraft:dark_oak_log",
+            "minecraft:dark_oak_wood",
+            "minecraft:stripped_dark_oak_log",
+            "minecraft:stripped_dark_oak_wood",
+            "minecraft:pale_oak_log",
+            "minecraft:pale_oak_wood",
+            "minecraft:stripped_pale_oak_log",
+            "minecraft:stripped_pale_oak_wood",
+            "minecraft:oak_log",
+            "minecraft:oak_wood",
+            "minecraft:stripped_oak_log",
+            "minecraft:stripped_oak_wood",
+            "minecraft:acacia_log",
+            "minecraft:acacia_wood",
+            "minecraft:stripped_acacia_log",
+            "minecraft:stripped_acacia_wood",
+            "minecraft:birch_log",
+            "minecraft:birch_wood",
+            "minecraft:stripped_birch_log",
+            "minecraft:stripped_birch_wood",
+            "minecraft:jungle_log",
+            "minecraft:jungle_wood",
+            "minecraft:stripped_jungle_log",
+            "minecraft:stripped_jungle_wood",
+            "minecraft:spruce_log",
+            "minecraft:spruce_wood",
+            "minecraft:stripped_spruce_log",
+            "minecraft:stripped_spruce_wood",
+            "minecraft:mangrove_log",
+            "minecraft:mangrove_wood",
+            "minecraft:stripped_mangrove_log",
+            "minecraft:stripped_mangrove_wood",
+            "minecraft:cherry_log",
+            "minecraft:cherry_wood",
+            "minecraft:stripped_cherry_log",
+            "minecraft:stripped_cherry_wood",
+            "minecraft:crimson_stem",
+            "minecraft:stripped_crimson_stem",
+            "minecraft:crimson_hyphae",
+            "minecraft:stripped_crimson_hyphae",
+            "minecraft:warped_stem",
+            "minecraft:stripped_warped_stem",
+            "minecraft:warped_hyphae",
+            "minecraft:stripped_warped_hyphae"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:campfire",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:candle",
+      "input": {
+        "1": {
+          "value": "minecraft:string",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:honeycomb",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:candle",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:carrot_on_a_stick",
+      "input": {
+        "1": {
+          "value": "minecraft:fishing_rod",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:carrot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:carrot_on_a_stick",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cartography_table",
+      "input": {
+        "1": {
+          "value": "minecraft:paper",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:paper",
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "7": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "8": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cartography_table",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cauldron",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cauldron",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cherry_boat",
+      "input": {
+        "1": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cherry_boat",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cherry_door",
+      "input": {
+        "1": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cherry_door",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cherry_fence",
+      "input": {
+        "1": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cherry_fence",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cherry_fence_gate",
+      "input": {
+        "1": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cherry_fence_gate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cherry_hanging_sign",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_chain",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:iron_chain",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stripped_cherry_log",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stripped_cherry_log",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:stripped_cherry_log",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stripped_cherry_log",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stripped_cherry_log",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:stripped_cherry_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cherry_hanging_sign",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cherry_pressure_plate",
+      "input": {
+        "1": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cherry_pressure_plate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cherry_shelf",
+      "input": {
+        "1": {
+          "value": "minecraft:stripped_cherry_log",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stripped_cherry_log",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stripped_cherry_log",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stripped_cherry_log",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stripped_cherry_log",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:stripped_cherry_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cherry_shelf",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cherry_sign",
+      "input": {
+        "1": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cherry_sign",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cherry_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cherry_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cherry_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cherry_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cherry_trapdoor",
+      "input": {
+        "1": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:cherry_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cherry_trapdoor",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cherry_wood",
+      "input": {
+        "1": {
+          "value": "minecraft:cherry_log",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:cherry_log",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:cherry_log",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:cherry_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cherry_wood",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:chest",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "2": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "3": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "6": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "7": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "8": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "9": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:chest",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:chiseled_bookshelf",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "2": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "3": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:oak_slab",
+            "minecraft:spruce_slab",
+            "minecraft:birch_slab",
+            "minecraft:jungle_slab",
+            "minecraft:acacia_slab",
+            "minecraft:dark_oak_slab",
+            "minecraft:pale_oak_slab",
+            "minecraft:crimson_slab",
+            "minecraft:warped_slab",
+            "minecraft:mangrove_slab",
+            "minecraft:bamboo_slab",
+            "minecraft:cherry_slab"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:oak_slab",
+            "minecraft:spruce_slab",
+            "minecraft:birch_slab",
+            "minecraft:jungle_slab",
+            "minecraft:acacia_slab",
+            "minecraft:dark_oak_slab",
+            "minecraft:pale_oak_slab",
+            "minecraft:crimson_slab",
+            "minecraft:warped_slab",
+            "minecraft:mangrove_slab",
+            "minecraft:bamboo_slab",
+            "minecraft:cherry_slab"
+          ],
+          "count": 1
+        },
+        "6": {
+          "value": [
+            "minecraft:oak_slab",
+            "minecraft:spruce_slab",
+            "minecraft:birch_slab",
+            "minecraft:jungle_slab",
+            "minecraft:acacia_slab",
+            "minecraft:dark_oak_slab",
+            "minecraft:pale_oak_slab",
+            "minecraft:crimson_slab",
+            "minecraft:warped_slab",
+            "minecraft:mangrove_slab",
+            "minecraft:bamboo_slab",
+            "minecraft:cherry_slab"
+          ],
+          "count": 1
+        },
+        "7": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "8": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "9": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:chiseled_bookshelf",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:chiseled_copper",
+      "input": {
+        "1": {
+          "value": "minecraft:cut_copper_slab",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:cut_copper_slab",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:chiseled_copper",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:chiseled_deepslate",
+      "input": {
+        "1": {
+          "value": "minecraft:cobbled_deepslate_slab",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:cobbled_deepslate_slab",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:chiseled_deepslate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:chiseled_nether_bricks",
+      "input": {
+        "1": {
+          "value": "minecraft:nether_brick_slab",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:nether_brick_slab",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:chiseled_nether_bricks",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:chiseled_polished_blackstone",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_blackstone_slab",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:polished_blackstone_slab",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:chiseled_polished_blackstone",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:chiseled_quartz_block",
+      "input": {
+        "1": {
+          "value": "minecraft:quartz_slab",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:quartz_slab",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:chiseled_quartz_block",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:chiseled_red_sandstone",
+      "input": {
+        "1": {
+          "value": "minecraft:red_sandstone_slab",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:red_sandstone_slab",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:chiseled_red_sandstone",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:chiseled_resin_bricks",
+      "input": {
+        "1": {
+          "value": "minecraft:resin_brick_slab",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:resin_brick_slab",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:chiseled_resin_bricks",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:chiseled_sandstone",
+      "input": {
+        "1": {
+          "value": "minecraft:sandstone_slab",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:sandstone_slab",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:chiseled_sandstone",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:chiseled_stone_bricks",
+      "input": {
+        "1": {
+          "value": "minecraft:stone_brick_slab",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stone_brick_slab",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:chiseled_stone_bricks",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:chiseled_tuff",
+      "input": {
+        "1": {
+          "value": "minecraft:tuff_slab",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:tuff_slab",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:chiseled_tuff",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:chiseled_tuff_bricks",
+      "input": {
+        "1": {
+          "value": "minecraft:tuff_brick_slab",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:tuff_brick_slab",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:chiseled_tuff_bricks",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:clay",
+      "input": {
+        "1": {
+          "value": "minecraft:clay_ball",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:clay_ball",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:clay_ball",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:clay_ball",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:clay",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:clock",
+      "input": {
+        "2": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:redstone",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:clock",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:coal_block",
+      "input": {
+        "1": {
+          "value": "minecraft:coal",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:coal",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:coal",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:coal",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:coal",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:coal",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:coal",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:coal",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:coal",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:coal_block",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:coarse_dirt",
+      "input": {
+        "1": {
+          "value": "minecraft:dirt",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:gravel",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:gravel",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:dirt",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:coarse_dirt",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:coast_armor_trim_smithing_template",
+      "input": {
+        "1": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:coast_armor_trim_smithing_template",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:diamond",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:coast_armor_trim_smithing_template",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cobbled_deepslate_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cobbled_deepslate_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cobbled_deepslate_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cobbled_deepslate_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cobbled_deepslate_wall",
+      "input": {
+        "1": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cobbled_deepslate_wall",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cobblestone_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cobblestone_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cobblestone_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cobblestone_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cobblestone_wall",
+      "input": {
+        "1": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cobblestone_wall",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:comparator",
+      "input": {
+        "2": {
+          "value": "minecraft:redstone_torch",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:redstone_torch",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:quartz",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:redstone_torch",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stone",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stone",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:stone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:comparator",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:compass",
+      "input": {
+        "2": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:redstone",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:compass",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:composter",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:oak_slab",
+            "minecraft:spruce_slab",
+            "minecraft:birch_slab",
+            "minecraft:jungle_slab",
+            "minecraft:acacia_slab",
+            "minecraft:dark_oak_slab",
+            "minecraft:pale_oak_slab",
+            "minecraft:crimson_slab",
+            "minecraft:warped_slab",
+            "minecraft:mangrove_slab",
+            "minecraft:bamboo_slab",
+            "minecraft:cherry_slab"
+          ],
+          "count": 1
+        },
+        "3": {
+          "value": [
+            "minecraft:oak_slab",
+            "minecraft:spruce_slab",
+            "minecraft:birch_slab",
+            "minecraft:jungle_slab",
+            "minecraft:acacia_slab",
+            "minecraft:dark_oak_slab",
+            "minecraft:pale_oak_slab",
+            "minecraft:crimson_slab",
+            "minecraft:warped_slab",
+            "minecraft:mangrove_slab",
+            "minecraft:bamboo_slab",
+            "minecraft:cherry_slab"
+          ],
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:oak_slab",
+            "minecraft:spruce_slab",
+            "minecraft:birch_slab",
+            "minecraft:jungle_slab",
+            "minecraft:acacia_slab",
+            "minecraft:dark_oak_slab",
+            "minecraft:pale_oak_slab",
+            "minecraft:crimson_slab",
+            "minecraft:warped_slab",
+            "minecraft:mangrove_slab",
+            "minecraft:bamboo_slab",
+            "minecraft:cherry_slab"
+          ],
+          "count": 1
+        },
+        "6": {
+          "value": [
+            "minecraft:oak_slab",
+            "minecraft:spruce_slab",
+            "minecraft:birch_slab",
+            "minecraft:jungle_slab",
+            "minecraft:acacia_slab",
+            "minecraft:dark_oak_slab",
+            "minecraft:pale_oak_slab",
+            "minecraft:crimson_slab",
+            "minecraft:warped_slab",
+            "minecraft:mangrove_slab",
+            "minecraft:bamboo_slab",
+            "minecraft:cherry_slab"
+          ],
+          "count": 1
+        },
+        "7": {
+          "value": [
+            "minecraft:oak_slab",
+            "minecraft:spruce_slab",
+            "minecraft:birch_slab",
+            "minecraft:jungle_slab",
+            "minecraft:acacia_slab",
+            "minecraft:dark_oak_slab",
+            "minecraft:pale_oak_slab",
+            "minecraft:crimson_slab",
+            "minecraft:warped_slab",
+            "minecraft:mangrove_slab",
+            "minecraft:bamboo_slab",
+            "minecraft:cherry_slab"
+          ],
+          "count": 1
+        },
+        "8": {
+          "value": [
+            "minecraft:oak_slab",
+            "minecraft:spruce_slab",
+            "minecraft:birch_slab",
+            "minecraft:jungle_slab",
+            "minecraft:acacia_slab",
+            "minecraft:dark_oak_slab",
+            "minecraft:pale_oak_slab",
+            "minecraft:crimson_slab",
+            "minecraft:warped_slab",
+            "minecraft:mangrove_slab",
+            "minecraft:bamboo_slab",
+            "minecraft:cherry_slab"
+          ],
+          "count": 1
+        },
+        "9": {
+          "value": [
+            "minecraft:oak_slab",
+            "minecraft:spruce_slab",
+            "minecraft:birch_slab",
+            "minecraft:jungle_slab",
+            "minecraft:acacia_slab",
+            "minecraft:dark_oak_slab",
+            "minecraft:pale_oak_slab",
+            "minecraft:crimson_slab",
+            "minecraft:warped_slab",
+            "minecraft:mangrove_slab",
+            "minecraft:bamboo_slab",
+            "minecraft:cherry_slab"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:composter",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:conduit",
+      "input": {
+        "1": {
+          "value": "minecraft:nautilus_shell",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:nautilus_shell",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:nautilus_shell",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:nautilus_shell",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:heart_of_the_sea",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:nautilus_shell",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:nautilus_shell",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:nautilus_shell",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:nautilus_shell",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:conduit",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cookie",
+      "input": {
+        "1": {
+          "value": "minecraft:wheat",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:cocoa_beans",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:wheat",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cookie",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:copper_axe",
+      "input": {
+        "1": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:copper_axe",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:copper_bars",
+      "input": {
+        "1": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:copper_bars",
+          "count": 16
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:copper_block",
+      "input": {
+        "1": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:copper_block",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:copper_boots",
+      "input": {
+        "1": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:copper_boots",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:copper_bulb",
+      "input": {
+        "2": {
+          "value": "minecraft:copper_block",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:copper_block",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:blaze_rod",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:copper_block",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:redstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:copper_bulb",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:copper_chain",
+      "input": {
+        "1": {
+          "value": "minecraft:copper_nugget",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:copper_nugget",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:copper_chain",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:copper_chest",
+      "input": {
+        "1": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "5": {
+          "base": [
+            "minecraft:chest",
+            "minecraft:trapped_chest"
+          ],
+          "subtracted": "minecraft:trapped_chest",
+          "neoforge:ingredient_type": "neoforge:difference",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:copper_chest",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:copper_chestplate",
+      "input": {
+        "1": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:copper_chestplate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:copper_door",
+      "input": {
+        "1": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:copper_door",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:copper_grate",
+      "input": {
+        "2": {
+          "value": "minecraft:copper_block",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:copper_block",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:copper_block",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:copper_block",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:copper_grate",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:copper_helmet",
+      "input": {
+        "1": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:copper_helmet",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:copper_hoe",
+      "input": {
+        "1": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:copper_hoe",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:copper_ingot_from_nuggets",
+      "input": {
+        "1": {
+          "value": "minecraft:copper_nugget",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:copper_nugget",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:copper_nugget",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:copper_nugget",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:copper_nugget",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:copper_nugget",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:copper_nugget",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:copper_nugget",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:copper_nugget",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:copper_ingot",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:copper_lantern",
+      "input": {
+        "1": {
+          "value": "minecraft:copper_nugget",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:copper_nugget",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:copper_nugget",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:copper_nugget",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:copper_torch",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:copper_nugget",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:copper_nugget",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:copper_nugget",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:copper_nugget",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:copper_lantern",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:copper_leggings",
+      "input": {
+        "1": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:copper_leggings",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:copper_pickaxe",
+      "input": {
+        "1": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:copper_pickaxe",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:copper_shovel",
+      "input": {
+        "1": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:copper_shovel",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:copper_spear",
+      "input": {
+        "3": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:copper_spear",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:copper_sword",
+      "input": {
+        "1": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:copper_sword",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:copper_torch",
+      "input": {
+        "1": {
+          "value": "minecraft:copper_nugget",
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:coal",
+            "minecraft:charcoal"
+          ],
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:copper_torch",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:copper_trapdoor",
+      "input": {
+        "1": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:copper_trapdoor",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:crafter",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:crafting_table",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:redstone",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:dropper",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:redstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:crafter",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:crafting_table",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "2": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:crafting_table",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:creaking_heart",
+      "input": {
+        "1": {
+          "value": "minecraft:pale_oak_log",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:resin_block",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:pale_oak_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:creaking_heart",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:crimson_door",
+      "input": {
+        "1": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:crimson_door",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:crimson_fence",
+      "input": {
+        "1": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:crimson_fence",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:crimson_fence_gate",
+      "input": {
+        "1": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:crimson_fence_gate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:crimson_hanging_sign",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_chain",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:iron_chain",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stripped_crimson_stem",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stripped_crimson_stem",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:stripped_crimson_stem",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stripped_crimson_stem",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stripped_crimson_stem",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:stripped_crimson_stem",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:crimson_hanging_sign",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:crimson_hyphae",
+      "input": {
+        "1": {
+          "value": "minecraft:crimson_stem",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:crimson_stem",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:crimson_stem",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:crimson_stem",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:crimson_hyphae",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:crimson_pressure_plate",
+      "input": {
+        "1": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:crimson_pressure_plate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:crimson_shelf",
+      "input": {
+        "1": {
+          "value": "minecraft:stripped_crimson_stem",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stripped_crimson_stem",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stripped_crimson_stem",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stripped_crimson_stem",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stripped_crimson_stem",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:stripped_crimson_stem",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:crimson_shelf",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:crimson_sign",
+      "input": {
+        "1": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:crimson_sign",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:crimson_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:crimson_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:crimson_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:crimson_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:crimson_trapdoor",
+      "input": {
+        "1": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:crimson_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:crimson_trapdoor",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:crossbow",
+      "input": {
+        "1": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:string",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:tripwire_hook",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:string",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:crossbow",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cut_copper",
+      "input": {
+        "1": {
+          "value": "minecraft:copper_block",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:copper_block",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:copper_block",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:copper_block",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cut_copper",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cut_copper_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:cut_copper",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:cut_copper",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cut_copper_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cut_copper_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:cut_copper",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:cut_copper",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:cut_copper",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:cut_copper",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:cut_copper",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cut_copper_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cut_red_sandstone",
+      "input": {
+        "1": {
+          "value": "minecraft:red_sandstone",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:red_sandstone",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:red_sandstone",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:red_sandstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cut_red_sandstone",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cut_red_sandstone_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:cut_red_sandstone",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:cut_red_sandstone",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:cut_red_sandstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cut_red_sandstone_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cut_sandstone",
+      "input": {
+        "1": {
+          "value": "minecraft:sandstone",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:sandstone",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:sandstone",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:sandstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cut_sandstone",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cut_sandstone_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:cut_sandstone",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:cut_sandstone",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:cut_sandstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cut_sandstone_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cyan_banner",
+      "input": {
+        "1": {
+          "value": "minecraft:cyan_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:cyan_wool",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:cyan_wool",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:cyan_wool",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:cyan_wool",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:cyan_wool",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cyan_banner",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cyan_bed",
+      "input": {
+        "1": {
+          "value": "minecraft:cyan_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:cyan_wool",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:cyan_wool",
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "6": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cyan_bed",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cyan_carpet",
+      "input": {
+        "1": {
+          "value": "minecraft:cyan_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:cyan_wool",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cyan_carpet",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cyan_harness",
+      "input": {
+        "1": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:cyan_wool",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cyan_harness",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cyan_stained_glass",
+      "input": {
+        "1": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:cyan_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cyan_stained_glass",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cyan_stained_glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:cyan_stained_glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:cyan_stained_glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:cyan_stained_glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:cyan_stained_glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:cyan_stained_glass",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:cyan_stained_glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cyan_stained_glass_pane",
+          "count": 16
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cyan_stained_glass_pane_from_glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:cyan_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cyan_stained_glass_pane",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:cyan_terracotta",
+      "input": {
+        "1": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:cyan_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:cyan_terracotta",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:dark_oak_boat",
+      "input": {
+        "1": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:dark_oak_boat",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:dark_oak_door",
+      "input": {
+        "1": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:dark_oak_door",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:dark_oak_fence",
+      "input": {
+        "1": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:dark_oak_fence",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:dark_oak_fence_gate",
+      "input": {
+        "1": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:dark_oak_fence_gate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:dark_oak_hanging_sign",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_chain",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:iron_chain",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stripped_dark_oak_log",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stripped_dark_oak_log",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:stripped_dark_oak_log",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stripped_dark_oak_log",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stripped_dark_oak_log",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:stripped_dark_oak_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:dark_oak_hanging_sign",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:dark_oak_pressure_plate",
+      "input": {
+        "1": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:dark_oak_pressure_plate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:dark_oak_shelf",
+      "input": {
+        "1": {
+          "value": "minecraft:stripped_dark_oak_log",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stripped_dark_oak_log",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stripped_dark_oak_log",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stripped_dark_oak_log",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stripped_dark_oak_log",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:stripped_dark_oak_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:dark_oak_shelf",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:dark_oak_sign",
+      "input": {
+        "1": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:dark_oak_sign",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:dark_oak_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:dark_oak_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:dark_oak_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:dark_oak_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:dark_oak_trapdoor",
+      "input": {
+        "1": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:dark_oak_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:dark_oak_trapdoor",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:dark_oak_wood",
+      "input": {
+        "1": {
+          "value": "minecraft:dark_oak_log",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:dark_oak_log",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:dark_oak_log",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:dark_oak_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:dark_oak_wood",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:dark_prismarine",
+      "input": {
+        "1": {
+          "value": "minecraft:prismarine_shard",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:prismarine_shard",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:prismarine_shard",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:prismarine_shard",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:black_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:prismarine_shard",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:prismarine_shard",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:prismarine_shard",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:prismarine_shard",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:dark_prismarine",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:dark_prismarine_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:dark_prismarine",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:dark_prismarine",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:dark_prismarine",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:dark_prismarine_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:dark_prismarine_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:dark_prismarine",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:dark_prismarine",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:dark_prismarine",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:dark_prismarine",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:dark_prismarine",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:dark_prismarine",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:dark_prismarine_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:daylight_detector",
+      "input": {
+        "1": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:quartz",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:quartz",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:quartz",
+          "count": 1
+        },
+        "7": {
+          "value": [
+            "minecraft:oak_slab",
+            "minecraft:spruce_slab",
+            "minecraft:birch_slab",
+            "minecraft:jungle_slab",
+            "minecraft:acacia_slab",
+            "minecraft:dark_oak_slab",
+            "minecraft:pale_oak_slab",
+            "minecraft:crimson_slab",
+            "minecraft:warped_slab",
+            "minecraft:mangrove_slab",
+            "minecraft:bamboo_slab",
+            "minecraft:cherry_slab"
+          ],
+          "count": 1
+        },
+        "8": {
+          "value": [
+            "minecraft:oak_slab",
+            "minecraft:spruce_slab",
+            "minecraft:birch_slab",
+            "minecraft:jungle_slab",
+            "minecraft:acacia_slab",
+            "minecraft:dark_oak_slab",
+            "minecraft:pale_oak_slab",
+            "minecraft:crimson_slab",
+            "minecraft:warped_slab",
+            "minecraft:mangrove_slab",
+            "minecraft:bamboo_slab",
+            "minecraft:cherry_slab"
+          ],
+          "count": 1
+        },
+        "9": {
+          "value": [
+            "minecraft:oak_slab",
+            "minecraft:spruce_slab",
+            "minecraft:birch_slab",
+            "minecraft:jungle_slab",
+            "minecraft:acacia_slab",
+            "minecraft:dark_oak_slab",
+            "minecraft:pale_oak_slab",
+            "minecraft:crimson_slab",
+            "minecraft:warped_slab",
+            "minecraft:mangrove_slab",
+            "minecraft:bamboo_slab",
+            "minecraft:cherry_slab"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:daylight_detector",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:decorated_pot_simple",
+      "input": {
+        "2": {
+          "value": "minecraft:brick",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:brick",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:brick",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:brick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:decorated_pot",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:deepslate_brick_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate_bricks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:deepslate_bricks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:deepslate_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_brick_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:deepslate_brick_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate_bricks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:deepslate_bricks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:deepslate_bricks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:deepslate_bricks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:deepslate_bricks",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:deepslate_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_brick_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:deepslate_brick_wall",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate_bricks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:deepslate_bricks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:deepslate_bricks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:deepslate_bricks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:deepslate_bricks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:deepslate_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_brick_wall",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:deepslate_bricks",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_deepslate",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:polished_deepslate",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:polished_deepslate",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:polished_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_bricks",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:deepslate_tile_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate_tiles",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:deepslate_tiles",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:deepslate_tiles",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_tile_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:deepslate_tile_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate_tiles",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:deepslate_tiles",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:deepslate_tiles",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:deepslate_tiles",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:deepslate_tiles",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:deepslate_tiles",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_tile_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:deepslate_tile_wall",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate_tiles",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:deepslate_tiles",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:deepslate_tiles",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:deepslate_tiles",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:deepslate_tiles",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:deepslate_tiles",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_tile_wall",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:deepslate_tiles",
+      "input": {
+        "1": {
+          "value": "minecraft:deepslate_bricks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:deepslate_bricks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:deepslate_bricks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:deepslate_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:deepslate_tiles",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:detector_rail",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stone_pressure_plate",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:redstone",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:detector_rail",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:diamond_axe",
+      "input": {
+        "1": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:diamond_axe",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:diamond_block",
+      "input": {
+        "1": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:diamond",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:diamond_block",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:diamond_boots",
+      "input": {
+        "1": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:diamond",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:diamond_boots",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:diamond_chestplate",
+      "input": {
+        "1": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:diamond",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:diamond_chestplate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:diamond_helmet",
+      "input": {
+        "1": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:diamond",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:diamond_helmet",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:diamond_hoe",
+      "input": {
+        "1": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:diamond_hoe",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:diamond_leggings",
+      "input": {
+        "1": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:diamond",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:diamond_leggings",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:diamond_pickaxe",
+      "input": {
+        "1": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:diamond_pickaxe",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:diamond_shovel",
+      "input": {
+        "1": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:diamond_shovel",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:diamond_spear",
+      "input": {
+        "3": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:diamond_spear",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:diamond_sword",
+      "input": {
+        "1": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:diamond_sword",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:diorite",
+      "input": {
+        "1": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:quartz",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:quartz",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:diorite",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:diorite_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:diorite",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:diorite",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:diorite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:diorite_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:diorite_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:diorite",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:diorite",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:diorite",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:diorite",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:diorite",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:diorite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:diorite_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:diorite_wall",
+      "input": {
+        "1": {
+          "value": "minecraft:diorite",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:diorite",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:diorite",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:diorite",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:diorite",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:diorite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:diorite_wall",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:dispenser",
+      "input": {
+        "1": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:bow",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:redstone",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:dispenser",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:dried_ghast",
+      "input": {
+        "1": {
+          "value": "minecraft:ghast_tear",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:ghast_tear",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:ghast_tear",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:ghast_tear",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:soul_sand",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:ghast_tear",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:ghast_tear",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:ghast_tear",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:ghast_tear",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:dried_ghast",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:dried_kelp_block",
+      "input": {
+        "1": {
+          "value": "minecraft:dried_kelp",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:dried_kelp",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:dried_kelp",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:dried_kelp",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:dried_kelp",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:dried_kelp",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:dried_kelp",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:dried_kelp",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:dried_kelp",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:dried_kelp_block",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:dripstone_block",
+      "input": {
+        "1": {
+          "value": "minecraft:pointed_dripstone",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:pointed_dripstone",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:pointed_dripstone",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:pointed_dripstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:dripstone_block",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:dropper",
+      "input": {
+        "1": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:redstone",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:dropper",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:dune_armor_trim_smithing_template",
+      "input": {
+        "1": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:dune_armor_trim_smithing_template",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:sandstone",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:diamond",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:dune_armor_trim_smithing_template",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:emerald_block",
+      "input": {
+        "1": {
+          "value": "minecraft:emerald",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:emerald",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:emerald",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:emerald",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:emerald",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:emerald",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:emerald",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:emerald",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:emerald",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:emerald_block",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:enchanting_table",
+      "input": {
+        "2": {
+          "value": "minecraft:book",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:obsidian",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:obsidian",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:obsidian",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:obsidian",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:enchanting_table",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:end_crystal",
+      "input": {
+        "1": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:ender_eye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:ghast_tear",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:end_crystal",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:end_rod",
+      "input": {
+        "1": {
+          "value": "minecraft:blaze_rod",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:popped_chorus_fruit",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:end_rod",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:end_stone_brick_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:end_stone_bricks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:end_stone_bricks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:end_stone_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:end_stone_brick_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:end_stone_brick_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:end_stone_bricks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:end_stone_bricks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:end_stone_bricks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:end_stone_bricks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:end_stone_bricks",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:end_stone_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:end_stone_brick_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:end_stone_brick_wall",
+      "input": {
+        "1": {
+          "value": "minecraft:end_stone_bricks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:end_stone_bricks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:end_stone_bricks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:end_stone_bricks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:end_stone_bricks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:end_stone_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:end_stone_brick_wall",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:end_stone_bricks",
+      "input": {
+        "1": {
+          "value": "minecraft:end_stone",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:end_stone",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:end_stone",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:end_stone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:end_stone_bricks",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:ender_chest",
+      "input": {
+        "1": {
+          "value": "minecraft:obsidian",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:obsidian",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:obsidian",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:obsidian",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:ender_eye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:obsidian",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:obsidian",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:obsidian",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:obsidian",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:ender_chest",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:exposed_chiseled_copper",
+      "input": {
+        "1": {
+          "value": "minecraft:exposed_cut_copper_slab",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:exposed_cut_copper_slab",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:exposed_chiseled_copper",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:exposed_copper_bulb",
+      "input": {
+        "2": {
+          "value": "minecraft:exposed_copper",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:exposed_copper",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:blaze_rod",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:exposed_copper",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:redstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:exposed_copper_bulb",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:exposed_copper_grate",
+      "input": {
+        "2": {
+          "value": "minecraft:exposed_copper",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:exposed_copper",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:exposed_copper",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:exposed_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:exposed_copper_grate",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:exposed_cut_copper",
+      "input": {
+        "1": {
+          "value": "minecraft:exposed_copper",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:exposed_copper",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:exposed_copper",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:exposed_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:exposed_cut_copper",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:exposed_cut_copper_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:exposed_cut_copper",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:exposed_cut_copper",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:exposed_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:exposed_cut_copper_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:exposed_cut_copper_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:exposed_cut_copper",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:exposed_cut_copper",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:exposed_cut_copper",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:exposed_cut_copper",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:exposed_cut_copper",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:exposed_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:exposed_cut_copper_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:eye_armor_trim_smithing_template",
+      "input": {
+        "1": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:eye_armor_trim_smithing_template",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:end_stone",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:diamond",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:eye_armor_trim_smithing_template",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:fishing_rod",
+      "input": {
+        "3": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:string",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:string",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:fishing_rod",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:fletching_table",
+      "input": {
+        "1": {
+          "value": "minecraft:flint",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:flint",
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "7": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "8": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:fletching_table",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:flow_armor_trim_smithing_template",
+      "input": {
+        "1": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:flow_armor_trim_smithing_template",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:breeze_rod",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:diamond",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:flow_armor_trim_smithing_template",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:flower_pot",
+      "input": {
+        "1": {
+          "value": "minecraft:brick",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:brick",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:brick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:flower_pot",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:furnace",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:cobblestone",
+            "minecraft:blackstone",
+            "minecraft:cobbled_deepslate"
+          ],
+          "count": 1
+        },
+        "2": {
+          "value": [
+            "minecraft:cobblestone",
+            "minecraft:blackstone",
+            "minecraft:cobbled_deepslate"
+          ],
+          "count": 1
+        },
+        "3": {
+          "value": [
+            "minecraft:cobblestone",
+            "minecraft:blackstone",
+            "minecraft:cobbled_deepslate"
+          ],
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:cobblestone",
+            "minecraft:blackstone",
+            "minecraft:cobbled_deepslate"
+          ],
+          "count": 1
+        },
+        "6": {
+          "value": [
+            "minecraft:cobblestone",
+            "minecraft:blackstone",
+            "minecraft:cobbled_deepslate"
+          ],
+          "count": 1
+        },
+        "7": {
+          "value": [
+            "minecraft:cobblestone",
+            "minecraft:blackstone",
+            "minecraft:cobbled_deepslate"
+          ],
+          "count": 1
+        },
+        "8": {
+          "value": [
+            "minecraft:cobblestone",
+            "minecraft:blackstone",
+            "minecraft:cobbled_deepslate"
+          ],
+          "count": 1
+        },
+        "9": {
+          "value": [
+            "minecraft:cobblestone",
+            "minecraft:blackstone",
+            "minecraft:cobbled_deepslate"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:furnace",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:glass_bottle",
+      "input": {
+        "1": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:glass_bottle",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:glass_pane",
+          "count": 16
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:glistering_melon_slice",
+      "input": {
+        "1": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:melon_slice",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:glistering_melon_slice",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:glowstone",
+      "input": {
+        "1": {
+          "value": "minecraft:glowstone_dust",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glowstone_dust",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glowstone_dust",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:glowstone_dust",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:glowstone",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:gold_block",
+      "input": {
+        "1": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:gold_block",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:gold_ingot_from_nuggets",
+      "input": {
+        "1": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:gold_ingot",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:golden_apple",
+      "input": {
+        "1": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:apple",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:golden_apple",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:golden_axe",
+      "input": {
+        "1": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:golden_axe",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:golden_boots",
+      "input": {
+        "1": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:golden_boots",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:golden_carrot",
+      "input": {
+        "1": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:carrot",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:golden_carrot",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:golden_chestplate",
+      "input": {
+        "1": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:golden_chestplate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:golden_dandelion",
+      "input": {
+        "1": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:dandelion",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:gold_nugget",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:golden_dandelion",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:golden_helmet",
+      "input": {
+        "1": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:golden_helmet",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:golden_hoe",
+      "input": {
+        "1": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:golden_hoe",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:golden_leggings",
+      "input": {
+        "1": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:golden_leggings",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:golden_pickaxe",
+      "input": {
+        "1": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:golden_pickaxe",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:golden_shovel",
+      "input": {
+        "1": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:golden_shovel",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:golden_spear",
+      "input": {
+        "3": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:golden_spear",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:golden_sword",
+      "input": {
+        "1": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:golden_sword",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:granite_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:granite",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:granite",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:granite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:granite_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:granite_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:granite",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:granite",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:granite",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:granite",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:granite",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:granite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:granite_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:granite_wall",
+      "input": {
+        "1": {
+          "value": "minecraft:granite",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:granite",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:granite",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:granite",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:granite",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:granite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:granite_wall",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:gray_banner",
+      "input": {
+        "1": {
+          "value": "minecraft:gray_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:gray_wool",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:gray_wool",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:gray_wool",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:gray_wool",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:gray_wool",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:gray_banner",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:gray_bed",
+      "input": {
+        "1": {
+          "value": "minecraft:gray_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:gray_wool",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:gray_wool",
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "6": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:gray_bed",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:gray_carpet",
+      "input": {
+        "1": {
+          "value": "minecraft:gray_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:gray_wool",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:gray_carpet",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:gray_harness",
+      "input": {
+        "1": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:gray_wool",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:gray_harness",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:gray_stained_glass",
+      "input": {
+        "1": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:gray_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:gray_stained_glass",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:gray_stained_glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:gray_stained_glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:gray_stained_glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:gray_stained_glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:gray_stained_glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:gray_stained_glass",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:gray_stained_glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:gray_stained_glass_pane",
+          "count": 16
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:gray_stained_glass_pane_from_glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:gray_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:gray_stained_glass_pane",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:gray_terracotta",
+      "input": {
+        "1": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:gray_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:gray_terracotta",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:green_banner",
+      "input": {
+        "1": {
+          "value": "minecraft:green_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:green_wool",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:green_wool",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:green_wool",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:green_wool",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:green_wool",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:green_banner",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:green_bed",
+      "input": {
+        "1": {
+          "value": "minecraft:green_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:green_wool",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:green_wool",
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "6": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:green_bed",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:green_carpet",
+      "input": {
+        "1": {
+          "value": "minecraft:green_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:green_wool",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:green_carpet",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:green_harness",
+      "input": {
+        "1": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:green_wool",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:green_harness",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:green_stained_glass",
+      "input": {
+        "1": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:green_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:green_stained_glass",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:green_stained_glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:green_stained_glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:green_stained_glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:green_stained_glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:green_stained_glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:green_stained_glass",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:green_stained_glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:green_stained_glass_pane",
+          "count": 16
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:green_stained_glass_pane_from_glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:green_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:green_stained_glass_pane",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:green_terracotta",
+      "input": {
+        "1": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:green_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:green_terracotta",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:grindstone",
+      "input": {
+        "1": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stone_slab",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "6": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:grindstone",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:heavy_weighted_pressure_plate",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:heavy_weighted_pressure_plate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:honey_block",
+      "input": {
+        "1": {
+          "value": "minecraft:honey_bottle",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:honey_bottle",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:honey_bottle",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:honey_bottle",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:honey_block",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:honeycomb_block",
+      "input": {
+        "1": {
+          "value": "minecraft:honeycomb",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:honeycomb",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:honeycomb",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:honeycomb",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:honeycomb_block",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:hopper",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "5": {
+          "base": [
+            "minecraft:chest",
+            "minecraft:trapped_chest"
+          ],
+          "subtracted": "minecraft:trapped_chest",
+          "neoforge:ingredient_type": "neoforge:difference",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:hopper",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:host_armor_trim_smithing_template",
+      "input": {
+        "1": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:host_armor_trim_smithing_template",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:diamond",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:host_armor_trim_smithing_template",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:iron_axe",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:iron_axe",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:iron_bars",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:iron_bars",
+          "count": 16
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:iron_block",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:iron_block",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:iron_boots",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:iron_boots",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:iron_chain",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_nugget",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:iron_nugget",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:iron_chain",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:iron_chestplate",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:iron_chestplate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:iron_door",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:iron_door",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:iron_helmet",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:iron_helmet",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:iron_hoe",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:iron_hoe",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:iron_ingot_from_nuggets",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_nugget",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:iron_nugget",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:iron_nugget",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:iron_nugget",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:iron_nugget",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:iron_nugget",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:iron_nugget",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:iron_nugget",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:iron_nugget",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:iron_ingot",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:iron_leggings",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:iron_leggings",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:iron_pickaxe",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:iron_pickaxe",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:iron_shovel",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:iron_shovel",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:iron_spear",
+      "input": {
+        "3": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:iron_spear",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:iron_sword",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:iron_sword",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:iron_trapdoor",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:iron_trapdoor",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:item_frame",
+      "input": {
+        "1": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:item_frame",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:jack_o_lantern",
+      "input": {
+        "1": {
+          "value": "minecraft:carved_pumpkin",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:torch",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:jack_o_lantern",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:jukebox",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "2": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "3": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "6": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "7": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "8": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "9": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:jukebox",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:jungle_boat",
+      "input": {
+        "1": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:jungle_boat",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:jungle_door",
+      "input": {
+        "1": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:jungle_door",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:jungle_fence",
+      "input": {
+        "1": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:jungle_fence",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:jungle_fence_gate",
+      "input": {
+        "1": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:jungle_fence_gate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:jungle_hanging_sign",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_chain",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:iron_chain",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stripped_jungle_log",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stripped_jungle_log",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:stripped_jungle_log",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stripped_jungle_log",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stripped_jungle_log",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:stripped_jungle_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:jungle_hanging_sign",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:jungle_pressure_plate",
+      "input": {
+        "1": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:jungle_pressure_plate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:jungle_shelf",
+      "input": {
+        "1": {
+          "value": "minecraft:stripped_jungle_log",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stripped_jungle_log",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stripped_jungle_log",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stripped_jungle_log",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stripped_jungle_log",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:stripped_jungle_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:jungle_shelf",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:jungle_sign",
+      "input": {
+        "1": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:jungle_sign",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:jungle_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:jungle_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:jungle_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:jungle_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:jungle_trapdoor",
+      "input": {
+        "1": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:jungle_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:jungle_trapdoor",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:jungle_wood",
+      "input": {
+        "1": {
+          "value": "minecraft:jungle_log",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:jungle_log",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:jungle_log",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:jungle_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:jungle_wood",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:ladder",
+      "input": {
+        "1": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:ladder",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:lantern",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_nugget",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:iron_nugget",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:iron_nugget",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:iron_nugget",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:torch",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:iron_nugget",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:iron_nugget",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:iron_nugget",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:iron_nugget",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:lantern",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:lapis_block",
+      "input": {
+        "1": {
+          "value": "minecraft:lapis_lazuli",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:lapis_lazuli",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:lapis_lazuli",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:lapis_lazuli",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:lapis_lazuli",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:lapis_lazuli",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:lapis_lazuli",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:lapis_lazuli",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:lapis_lazuli",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:lapis_block",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:lead",
+      "input": {
+        "1": {
+          "value": "minecraft:string",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:string",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:string",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:string",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:string",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:lead",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:leather",
+      "input": {
+        "1": {
+          "value": "minecraft:rabbit_hide",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:rabbit_hide",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:rabbit_hide",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:rabbit_hide",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:leather",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:leather_boots",
+      "input": {
+        "1": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:leather",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:leather_boots",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:leather_chestplate",
+      "input": {
+        "1": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:leather",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:leather_chestplate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:leather_helmet",
+      "input": {
+        "1": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:leather",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:leather_helmet",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:leather_horse_armor",
+      "input": {
+        "1": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:leather",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:leather_horse_armor",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:leather_leggings",
+      "input": {
+        "1": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:leather",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:leather_leggings",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:lectern",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:oak_slab",
+            "minecraft:spruce_slab",
+            "minecraft:birch_slab",
+            "minecraft:jungle_slab",
+            "minecraft:acacia_slab",
+            "minecraft:dark_oak_slab",
+            "minecraft:pale_oak_slab",
+            "minecraft:crimson_slab",
+            "minecraft:warped_slab",
+            "minecraft:mangrove_slab",
+            "minecraft:bamboo_slab",
+            "minecraft:cherry_slab"
+          ],
+          "count": 1
+        },
+        "2": {
+          "value": [
+            "minecraft:oak_slab",
+            "minecraft:spruce_slab",
+            "minecraft:birch_slab",
+            "minecraft:jungle_slab",
+            "minecraft:acacia_slab",
+            "minecraft:dark_oak_slab",
+            "minecraft:pale_oak_slab",
+            "minecraft:crimson_slab",
+            "minecraft:warped_slab",
+            "minecraft:mangrove_slab",
+            "minecraft:bamboo_slab",
+            "minecraft:cherry_slab"
+          ],
+          "count": 1
+        },
+        "3": {
+          "value": [
+            "minecraft:oak_slab",
+            "minecraft:spruce_slab",
+            "minecraft:birch_slab",
+            "minecraft:jungle_slab",
+            "minecraft:acacia_slab",
+            "minecraft:dark_oak_slab",
+            "minecraft:pale_oak_slab",
+            "minecraft:crimson_slab",
+            "minecraft:warped_slab",
+            "minecraft:mangrove_slab",
+            "minecraft:bamboo_slab",
+            "minecraft:cherry_slab"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:bookshelf",
+          "count": 1
+        },
+        "8": {
+          "value": [
+            "minecraft:oak_slab",
+            "minecraft:spruce_slab",
+            "minecraft:birch_slab",
+            "minecraft:jungle_slab",
+            "minecraft:acacia_slab",
+            "minecraft:dark_oak_slab",
+            "minecraft:pale_oak_slab",
+            "minecraft:crimson_slab",
+            "minecraft:warped_slab",
+            "minecraft:mangrove_slab",
+            "minecraft:bamboo_slab",
+            "minecraft:cherry_slab"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:lectern",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:lever",
+      "input": {
+        "1": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:lever",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:light_blue_banner",
+      "input": {
+        "1": {
+          "value": "minecraft:light_blue_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:light_blue_wool",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:light_blue_wool",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:light_blue_wool",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:light_blue_wool",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:light_blue_wool",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:light_blue_banner",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:light_blue_bed",
+      "input": {
+        "1": {
+          "value": "minecraft:light_blue_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:light_blue_wool",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:light_blue_wool",
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "6": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:light_blue_bed",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:light_blue_carpet",
+      "input": {
+        "1": {
+          "value": "minecraft:light_blue_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:light_blue_wool",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:light_blue_carpet",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:light_blue_harness",
+      "input": {
+        "1": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:light_blue_wool",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:light_blue_harness",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:light_blue_stained_glass",
+      "input": {
+        "1": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:light_blue_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:light_blue_stained_glass",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:light_blue_stained_glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:light_blue_stained_glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:light_blue_stained_glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:light_blue_stained_glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:light_blue_stained_glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:light_blue_stained_glass",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:light_blue_stained_glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:light_blue_stained_glass_pane",
+          "count": 16
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:light_blue_stained_glass_pane_from_glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:light_blue_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:light_blue_stained_glass_pane",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:light_blue_terracotta",
+      "input": {
+        "1": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:light_blue_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:light_blue_terracotta",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:light_gray_banner",
+      "input": {
+        "1": {
+          "value": "minecraft:light_gray_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:light_gray_wool",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:light_gray_wool",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:light_gray_wool",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:light_gray_wool",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:light_gray_wool",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:light_gray_banner",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:light_gray_bed",
+      "input": {
+        "1": {
+          "value": "minecraft:light_gray_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:light_gray_wool",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:light_gray_wool",
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "6": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:light_gray_bed",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:light_gray_carpet",
+      "input": {
+        "1": {
+          "value": "minecraft:light_gray_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:light_gray_wool",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:light_gray_carpet",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:light_gray_harness",
+      "input": {
+        "1": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:light_gray_wool",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:light_gray_harness",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:light_gray_stained_glass",
+      "input": {
+        "1": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:light_gray_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:light_gray_stained_glass",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:light_gray_stained_glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:light_gray_stained_glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:light_gray_stained_glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:light_gray_stained_glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:light_gray_stained_glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:light_gray_stained_glass",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:light_gray_stained_glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:light_gray_stained_glass_pane",
+          "count": 16
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:light_gray_stained_glass_pane_from_glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:light_gray_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:light_gray_stained_glass_pane",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:light_gray_terracotta",
+      "input": {
+        "1": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:light_gray_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:light_gray_terracotta",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:light_weighted_pressure_plate",
+      "input": {
+        "1": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:light_weighted_pressure_plate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:lightning_rod",
+      "input": {
+        "1": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:lightning_rod",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:lime_banner",
+      "input": {
+        "1": {
+          "value": "minecraft:lime_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:lime_wool",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:lime_wool",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:lime_wool",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:lime_wool",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:lime_wool",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:lime_banner",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:lime_bed",
+      "input": {
+        "1": {
+          "value": "minecraft:lime_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:lime_wool",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:lime_wool",
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "6": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:lime_bed",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:lime_carpet",
+      "input": {
+        "1": {
+          "value": "minecraft:lime_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:lime_wool",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:lime_carpet",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:lime_harness",
+      "input": {
+        "1": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:lime_wool",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:lime_harness",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:lime_stained_glass",
+      "input": {
+        "1": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:lime_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:lime_stained_glass",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:lime_stained_glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:lime_stained_glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:lime_stained_glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:lime_stained_glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:lime_stained_glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:lime_stained_glass",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:lime_stained_glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:lime_stained_glass_pane",
+          "count": 16
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:lime_stained_glass_pane_from_glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:lime_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:lime_stained_glass_pane",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:lime_terracotta",
+      "input": {
+        "1": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:lime_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:lime_terracotta",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:lodestone",
+      "input": {
+        "1": {
+          "value": "minecraft:chiseled_stone_bricks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:chiseled_stone_bricks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:chiseled_stone_bricks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:chiseled_stone_bricks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:chiseled_stone_bricks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:chiseled_stone_bricks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:chiseled_stone_bricks",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:chiseled_stone_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:lodestone",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:loom",
+      "input": {
+        "1": {
+          "value": "minecraft:string",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:string",
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:loom",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:mace",
+      "input": {
+        "1": {
+          "value": "minecraft:heavy_core",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:breeze_rod",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:mace",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:magenta_banner",
+      "input": {
+        "1": {
+          "value": "minecraft:magenta_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:magenta_wool",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:magenta_wool",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:magenta_wool",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:magenta_wool",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:magenta_wool",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:magenta_banner",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:magenta_bed",
+      "input": {
+        "1": {
+          "value": "minecraft:magenta_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:magenta_wool",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:magenta_wool",
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "6": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:magenta_bed",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:magenta_carpet",
+      "input": {
+        "1": {
+          "value": "minecraft:magenta_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:magenta_wool",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:magenta_carpet",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:magenta_harness",
+      "input": {
+        "1": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:magenta_wool",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:magenta_harness",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:magenta_stained_glass",
+      "input": {
+        "1": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:magenta_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:magenta_stained_glass",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:magenta_stained_glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:magenta_stained_glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:magenta_stained_glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:magenta_stained_glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:magenta_stained_glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:magenta_stained_glass",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:magenta_stained_glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:magenta_stained_glass_pane",
+          "count": 16
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:magenta_stained_glass_pane_from_glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:magenta_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:magenta_stained_glass_pane",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:magenta_terracotta",
+      "input": {
+        "1": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:magenta_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:magenta_terracotta",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:magma_block",
+      "input": {
+        "1": {
+          "value": "minecraft:magma_cream",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:magma_cream",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:magma_cream",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:magma_cream",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:magma_block",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:mangrove_boat",
+      "input": {
+        "1": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:mangrove_boat",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:mangrove_door",
+      "input": {
+        "1": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:mangrove_door",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:mangrove_fence",
+      "input": {
+        "1": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:mangrove_fence",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:mangrove_fence_gate",
+      "input": {
+        "1": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:mangrove_fence_gate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:mangrove_hanging_sign",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_chain",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:iron_chain",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stripped_mangrove_log",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stripped_mangrove_log",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:stripped_mangrove_log",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stripped_mangrove_log",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stripped_mangrove_log",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:stripped_mangrove_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:mangrove_hanging_sign",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:mangrove_pressure_plate",
+      "input": {
+        "1": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:mangrove_pressure_plate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:mangrove_shelf",
+      "input": {
+        "1": {
+          "value": "minecraft:stripped_mangrove_log",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stripped_mangrove_log",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stripped_mangrove_log",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stripped_mangrove_log",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stripped_mangrove_log",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:stripped_mangrove_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:mangrove_shelf",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:mangrove_sign",
+      "input": {
+        "1": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:mangrove_sign",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:mangrove_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:mangrove_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:mangrove_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:mangrove_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:mangrove_trapdoor",
+      "input": {
+        "1": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:mangrove_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:mangrove_trapdoor",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:mangrove_wood",
+      "input": {
+        "1": {
+          "value": "minecraft:mangrove_log",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:mangrove_log",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:mangrove_log",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:mangrove_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:mangrove_wood",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:map",
+      "input": {
+        "1": {
+          "value": "minecraft:paper",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:paper",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:paper",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:paper",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:compass",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:paper",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:paper",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:paper",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:paper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:map",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:minecart",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:minecart",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:moss_carpet",
+      "input": {
+        "1": {
+          "value": "minecraft:moss_block",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:moss_block",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:moss_carpet",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:mossy_cobblestone_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:mossy_cobblestone",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:mossy_cobblestone",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:mossy_cobblestone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:mossy_cobblestone_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:mossy_cobblestone_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:mossy_cobblestone",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:mossy_cobblestone",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:mossy_cobblestone",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:mossy_cobblestone",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:mossy_cobblestone",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:mossy_cobblestone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:mossy_cobblestone_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:mossy_cobblestone_wall",
+      "input": {
+        "1": {
+          "value": "minecraft:mossy_cobblestone",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:mossy_cobblestone",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:mossy_cobblestone",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:mossy_cobblestone",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:mossy_cobblestone",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:mossy_cobblestone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:mossy_cobblestone_wall",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:mossy_stone_brick_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:mossy_stone_bricks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:mossy_stone_bricks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:mossy_stone_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:mossy_stone_brick_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:mossy_stone_brick_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:mossy_stone_bricks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:mossy_stone_bricks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:mossy_stone_bricks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:mossy_stone_bricks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:mossy_stone_bricks",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:mossy_stone_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:mossy_stone_brick_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:mossy_stone_brick_wall",
+      "input": {
+        "1": {
+          "value": "minecraft:mossy_stone_bricks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:mossy_stone_bricks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:mossy_stone_bricks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:mossy_stone_bricks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:mossy_stone_bricks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:mossy_stone_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:mossy_stone_brick_wall",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:mud_brick_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:mud_bricks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:mud_bricks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:mud_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:mud_brick_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:mud_brick_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:mud_bricks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:mud_bricks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:mud_bricks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:mud_bricks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:mud_bricks",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:mud_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:mud_brick_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:mud_brick_wall",
+      "input": {
+        "1": {
+          "value": "minecraft:mud_bricks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:mud_bricks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:mud_bricks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:mud_bricks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:mud_bricks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:mud_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:mud_brick_wall",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:mud_bricks",
+      "input": {
+        "1": {
+          "value": "minecraft:packed_mud",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:packed_mud",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:packed_mud",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:packed_mud",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:mud_bricks",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:name_tag",
+      "input": {
+        "2": {
+          "value": [
+            "minecraft:copper_nugget",
+            "minecraft:iron_nugget",
+            "minecraft:gold_nugget"
+          ],
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:paper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:name_tag",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:nether_brick_fence",
+      "input": {
+        "1": {
+          "value": "minecraft:nether_bricks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:nether_brick",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:nether_bricks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:nether_bricks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:nether_brick",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:nether_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:nether_brick_fence",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:nether_brick_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:nether_bricks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:nether_bricks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:nether_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:nether_brick_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:nether_brick_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:nether_bricks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:nether_bricks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:nether_bricks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:nether_bricks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:nether_bricks",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:nether_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:nether_brick_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:nether_brick_wall",
+      "input": {
+        "1": {
+          "value": "minecraft:nether_bricks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:nether_bricks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:nether_bricks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:nether_bricks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:nether_bricks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:nether_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:nether_brick_wall",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:nether_bricks",
+      "input": {
+        "1": {
+          "value": "minecraft:nether_brick",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:nether_brick",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:nether_brick",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:nether_brick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:nether_bricks",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:netherite_block",
+      "input": {
+        "1": {
+          "value": "minecraft:netherite_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:netherite_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:netherite_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:netherite_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:netherite_ingot",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:netherite_ingot",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:netherite_ingot",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:netherite_ingot",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:netherite_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:netherite_block",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:netherite_upgrade_smithing_template",
+      "input": {
+        "1": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:netherite_upgrade_smithing_template",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:netherrack",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:diamond",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:netherite_upgrade_smithing_template",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:note_block",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "2": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "3": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:redstone",
+          "count": 1
+        },
+        "6": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "7": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "8": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "9": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:note_block",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:oak_boat",
+      "input": {
+        "1": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:oak_boat",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:oak_door",
+      "input": {
+        "1": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:oak_door",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:oak_fence",
+      "input": {
+        "1": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:oak_fence",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:oak_fence_gate",
+      "input": {
+        "1": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:oak_fence_gate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:oak_hanging_sign",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_chain",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:iron_chain",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stripped_oak_log",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stripped_oak_log",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:stripped_oak_log",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stripped_oak_log",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stripped_oak_log",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:stripped_oak_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:oak_hanging_sign",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:oak_pressure_plate",
+      "input": {
+        "1": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:oak_pressure_plate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:oak_shelf",
+      "input": {
+        "1": {
+          "value": "minecraft:stripped_oak_log",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stripped_oak_log",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stripped_oak_log",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stripped_oak_log",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stripped_oak_log",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:stripped_oak_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:oak_shelf",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:oak_sign",
+      "input": {
+        "1": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:oak_sign",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:oak_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:oak_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:oak_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:oak_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:oak_trapdoor",
+      "input": {
+        "1": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:oak_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:oak_trapdoor",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:oak_wood",
+      "input": {
+        "1": {
+          "value": "minecraft:oak_log",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:oak_log",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:oak_log",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:oak_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:oak_wood",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:observer",
+      "input": {
+        "1": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:redstone",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:redstone",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:quartz",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:observer",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:orange_banner",
+      "input": {
+        "1": {
+          "value": "minecraft:orange_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:orange_wool",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:orange_wool",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:orange_wool",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:orange_wool",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:orange_wool",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:orange_banner",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:orange_bed",
+      "input": {
+        "1": {
+          "value": "minecraft:orange_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:orange_wool",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:orange_wool",
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "6": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:orange_bed",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:orange_carpet",
+      "input": {
+        "1": {
+          "value": "minecraft:orange_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:orange_wool",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:orange_carpet",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:orange_harness",
+      "input": {
+        "1": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:orange_wool",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:orange_harness",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:orange_stained_glass",
+      "input": {
+        "1": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:orange_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:orange_stained_glass",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:orange_stained_glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:orange_stained_glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:orange_stained_glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:orange_stained_glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:orange_stained_glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:orange_stained_glass",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:orange_stained_glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:orange_stained_glass_pane",
+          "count": 16
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:orange_stained_glass_pane_from_glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:orange_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:orange_stained_glass_pane",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:orange_terracotta",
+      "input": {
+        "1": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:orange_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:orange_terracotta",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:oxidized_chiseled_copper",
+      "input": {
+        "1": {
+          "value": "minecraft:oxidized_cut_copper_slab",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:oxidized_cut_copper_slab",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:oxidized_chiseled_copper",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:oxidized_copper_bulb",
+      "input": {
+        "2": {
+          "value": "minecraft:oxidized_copper",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:oxidized_copper",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:blaze_rod",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:oxidized_copper",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:redstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:oxidized_copper_bulb",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:oxidized_copper_grate",
+      "input": {
+        "2": {
+          "value": "minecraft:oxidized_copper",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:oxidized_copper",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:oxidized_copper",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:oxidized_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:oxidized_copper_grate",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:oxidized_cut_copper",
+      "input": {
+        "1": {
+          "value": "minecraft:oxidized_copper",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:oxidized_copper",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:oxidized_copper",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:oxidized_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:oxidized_cut_copper",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:oxidized_cut_copper_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:oxidized_cut_copper",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:oxidized_cut_copper",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:oxidized_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:oxidized_cut_copper_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:oxidized_cut_copper_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:oxidized_cut_copper",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:oxidized_cut_copper",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:oxidized_cut_copper",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:oxidized_cut_copper",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:oxidized_cut_copper",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:oxidized_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:oxidized_cut_copper_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:painting",
+      "input": {
+        "1": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:white_wool",
+            "minecraft:orange_wool",
+            "minecraft:magenta_wool",
+            "minecraft:light_blue_wool",
+            "minecraft:yellow_wool",
+            "minecraft:lime_wool",
+            "minecraft:pink_wool",
+            "minecraft:gray_wool",
+            "minecraft:light_gray_wool",
+            "minecraft:cyan_wool",
+            "minecraft:purple_wool",
+            "minecraft:blue_wool",
+            "minecraft:brown_wool",
+            "minecraft:green_wool",
+            "minecraft:red_wool",
+            "minecraft:black_wool"
+          ],
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:painting",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:pale_moss_carpet",
+      "input": {
+        "1": {
+          "value": "minecraft:pale_moss_block",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:pale_moss_block",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:pale_moss_carpet",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:pale_oak_boat",
+      "input": {
+        "1": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:pale_oak_boat",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:pale_oak_door",
+      "input": {
+        "1": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:pale_oak_door",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:pale_oak_fence",
+      "input": {
+        "1": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:pale_oak_fence",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:pale_oak_fence_gate",
+      "input": {
+        "1": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:pale_oak_fence_gate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:pale_oak_hanging_sign",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_chain",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:iron_chain",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stripped_pale_oak_log",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stripped_pale_oak_log",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:stripped_pale_oak_log",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stripped_pale_oak_log",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stripped_pale_oak_log",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:stripped_pale_oak_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:pale_oak_hanging_sign",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:pale_oak_pressure_plate",
+      "input": {
+        "1": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:pale_oak_pressure_plate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:pale_oak_shelf",
+      "input": {
+        "1": {
+          "value": "minecraft:stripped_pale_oak_log",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stripped_pale_oak_log",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stripped_pale_oak_log",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stripped_pale_oak_log",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stripped_pale_oak_log",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:stripped_pale_oak_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:pale_oak_shelf",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:pale_oak_sign",
+      "input": {
+        "1": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:pale_oak_sign",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:pale_oak_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:pale_oak_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:pale_oak_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:pale_oak_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:pale_oak_trapdoor",
+      "input": {
+        "1": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:pale_oak_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:pale_oak_trapdoor",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:pale_oak_wood",
+      "input": {
+        "1": {
+          "value": "minecraft:pale_oak_log",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:pale_oak_log",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:pale_oak_log",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:pale_oak_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:pale_oak_wood",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:paper",
+      "input": {
+        "1": {
+          "value": "minecraft:sugar_cane",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:sugar_cane",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:sugar_cane",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:paper",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:pink_banner",
+      "input": {
+        "1": {
+          "value": "minecraft:pink_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:pink_wool",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:pink_wool",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:pink_wool",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:pink_wool",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:pink_wool",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:pink_banner",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:pink_bed",
+      "input": {
+        "1": {
+          "value": "minecraft:pink_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:pink_wool",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:pink_wool",
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "6": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:pink_bed",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:pink_carpet",
+      "input": {
+        "1": {
+          "value": "minecraft:pink_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:pink_wool",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:pink_carpet",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:pink_harness",
+      "input": {
+        "1": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:pink_wool",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:pink_harness",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:pink_stained_glass",
+      "input": {
+        "1": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:pink_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:pink_stained_glass",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:pink_stained_glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:pink_stained_glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:pink_stained_glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:pink_stained_glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:pink_stained_glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:pink_stained_glass",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:pink_stained_glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:pink_stained_glass_pane",
+          "count": 16
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:pink_stained_glass_pane_from_glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:pink_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:pink_stained_glass_pane",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:pink_terracotta",
+      "input": {
+        "1": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:pink_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:pink_terracotta",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:piston",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "2": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "3": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:redstone",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:piston",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:polished_andesite",
+      "input": {
+        "1": {
+          "value": "minecraft:andesite",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:andesite",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:andesite",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:andesite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_andesite",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:polished_andesite_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_andesite",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:polished_andesite",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:polished_andesite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_andesite_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:polished_andesite_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_andesite",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:polished_andesite",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:polished_andesite",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:polished_andesite",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:polished_andesite",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:polished_andesite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_andesite_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:polished_basalt",
+      "input": {
+        "1": {
+          "value": "minecraft:basalt",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:basalt",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:basalt",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:basalt",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_basalt",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:polished_blackstone",
+      "input": {
+        "1": {
+          "value": "minecraft:blackstone",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:blackstone",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:blackstone",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:blackstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_blackstone",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:polished_blackstone_brick_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_blackstone_bricks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:polished_blackstone_bricks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:polished_blackstone_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_blackstone_brick_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:polished_blackstone_brick_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_blackstone_bricks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:polished_blackstone_bricks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:polished_blackstone_bricks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:polished_blackstone_bricks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:polished_blackstone_bricks",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:polished_blackstone_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_blackstone_brick_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:polished_blackstone_brick_wall",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_blackstone_bricks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:polished_blackstone_bricks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:polished_blackstone_bricks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:polished_blackstone_bricks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:polished_blackstone_bricks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:polished_blackstone_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_blackstone_brick_wall",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:polished_blackstone_bricks",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_blackstone",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:polished_blackstone",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:polished_blackstone",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:polished_blackstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_blackstone_bricks",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:polished_blackstone_pressure_plate",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_blackstone",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:polished_blackstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_blackstone_pressure_plate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:polished_blackstone_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_blackstone",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:polished_blackstone",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:polished_blackstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_blackstone_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:polished_blackstone_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_blackstone",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:polished_blackstone",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:polished_blackstone",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:polished_blackstone",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:polished_blackstone",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:polished_blackstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_blackstone_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:polished_blackstone_wall",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_blackstone",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:polished_blackstone",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:polished_blackstone",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:polished_blackstone",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:polished_blackstone",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:polished_blackstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_blackstone_wall",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:polished_deepslate",
+      "input": {
+        "1": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_deepslate",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:polished_deepslate_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_deepslate",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:polished_deepslate",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:polished_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_deepslate_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:polished_deepslate_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_deepslate",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:polished_deepslate",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:polished_deepslate",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:polished_deepslate",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:polished_deepslate",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:polished_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_deepslate_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:polished_deepslate_wall",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_deepslate",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:polished_deepslate",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:polished_deepslate",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:polished_deepslate",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:polished_deepslate",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:polished_deepslate",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_deepslate_wall",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:polished_diorite",
+      "input": {
+        "1": {
+          "value": "minecraft:diorite",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:diorite",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:diorite",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:diorite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_diorite",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:polished_diorite_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_diorite",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:polished_diorite",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:polished_diorite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_diorite_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:polished_diorite_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_diorite",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:polished_diorite",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:polished_diorite",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:polished_diorite",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:polished_diorite",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:polished_diorite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_diorite_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:polished_granite",
+      "input": {
+        "1": {
+          "value": "minecraft:granite",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:granite",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:granite",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:granite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_granite",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:polished_granite_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_granite",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:polished_granite",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:polished_granite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_granite_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:polished_granite_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_granite",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:polished_granite",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:polished_granite",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:polished_granite",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:polished_granite",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:polished_granite",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_granite_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:polished_tuff",
+      "input": {
+        "1": {
+          "value": "minecraft:tuff",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:tuff",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:tuff",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:tuff",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_tuff",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:polished_tuff_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_tuff",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:polished_tuff",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:polished_tuff",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_tuff_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:polished_tuff_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_tuff",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:polished_tuff",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:polished_tuff",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:polished_tuff",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:polished_tuff",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:polished_tuff",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_tuff_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:polished_tuff_wall",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_tuff",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:polished_tuff",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:polished_tuff",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:polished_tuff",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:polished_tuff",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:polished_tuff",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:polished_tuff_wall",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:powered_rail",
+      "input": {
+        "1": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:redstone",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:gold_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:powered_rail",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:prismarine",
+      "input": {
+        "1": {
+          "value": "minecraft:prismarine_shard",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:prismarine_shard",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:prismarine_shard",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:prismarine_shard",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:prismarine",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:prismarine_brick_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:prismarine_bricks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:prismarine_bricks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:prismarine_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:prismarine_brick_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:prismarine_brick_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:prismarine_bricks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:prismarine_bricks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:prismarine_bricks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:prismarine_bricks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:prismarine_bricks",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:prismarine_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:prismarine_brick_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:prismarine_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:prismarine",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:prismarine",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:prismarine",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:prismarine_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:prismarine_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:prismarine",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:prismarine",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:prismarine",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:prismarine",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:prismarine",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:prismarine",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:prismarine_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:prismarine_wall",
+      "input": {
+        "1": {
+          "value": "minecraft:prismarine",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:prismarine",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:prismarine",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:prismarine",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:prismarine",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:prismarine",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:prismarine_wall",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:purple_banner",
+      "input": {
+        "1": {
+          "value": "minecraft:purple_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:purple_wool",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:purple_wool",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:purple_wool",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:purple_wool",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:purple_wool",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:purple_banner",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:purple_bed",
+      "input": {
+        "1": {
+          "value": "minecraft:purple_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:purple_wool",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:purple_wool",
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "6": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:purple_bed",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:purple_carpet",
+      "input": {
+        "1": {
+          "value": "minecraft:purple_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:purple_wool",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:purple_carpet",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:purple_harness",
+      "input": {
+        "1": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:purple_wool",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:purple_harness",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:purple_stained_glass",
+      "input": {
+        "1": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:purple_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:purple_stained_glass",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:purple_stained_glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:purple_stained_glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:purple_stained_glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:purple_stained_glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:purple_stained_glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:purple_stained_glass",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:purple_stained_glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:purple_stained_glass_pane",
+          "count": 16
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:purple_stained_glass_pane_from_glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:purple_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:purple_stained_glass_pane",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:purple_terracotta",
+      "input": {
+        "1": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:purple_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:purple_terracotta",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:purpur_block",
+      "input": {
+        "1": {
+          "value": "minecraft:popped_chorus_fruit",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:popped_chorus_fruit",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:popped_chorus_fruit",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:popped_chorus_fruit",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:purpur_block",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:purpur_pillar",
+      "input": {
+        "1": {
+          "value": "minecraft:purpur_slab",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:purpur_slab",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:purpur_pillar",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:purpur_slab",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:purpur_block",
+            "minecraft:purpur_pillar"
+          ],
+          "count": 1
+        },
+        "2": {
+          "value": [
+            "minecraft:purpur_block",
+            "minecraft:purpur_pillar"
+          ],
+          "count": 1
+        },
+        "3": {
+          "value": [
+            "minecraft:purpur_block",
+            "minecraft:purpur_pillar"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:purpur_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:purpur_stairs",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:purpur_block",
+            "minecraft:purpur_pillar"
+          ],
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:purpur_block",
+            "minecraft:purpur_pillar"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:purpur_block",
+            "minecraft:purpur_pillar"
+          ],
+          "count": 1
+        },
+        "7": {
+          "value": [
+            "minecraft:purpur_block",
+            "minecraft:purpur_pillar"
+          ],
+          "count": 1
+        },
+        "8": {
+          "value": [
+            "minecraft:purpur_block",
+            "minecraft:purpur_pillar"
+          ],
+          "count": 1
+        },
+        "9": {
+          "value": [
+            "minecraft:purpur_block",
+            "minecraft:purpur_pillar"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:purpur_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:quartz_block",
+      "input": {
+        "1": {
+          "value": "minecraft:quartz",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:quartz",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:quartz",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:quartz",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:quartz_block",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:quartz_bricks",
+      "input": {
+        "1": {
+          "value": "minecraft:quartz_block",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:quartz_block",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:quartz_block",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:quartz_block",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:quartz_bricks",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:quartz_pillar",
+      "input": {
+        "1": {
+          "value": "minecraft:quartz_block",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:quartz_block",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:quartz_pillar",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:quartz_slab",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:chiseled_quartz_block",
+            "minecraft:quartz_block",
+            "minecraft:quartz_pillar"
+          ],
+          "count": 1
+        },
+        "2": {
+          "value": [
+            "minecraft:chiseled_quartz_block",
+            "minecraft:quartz_block",
+            "minecraft:quartz_pillar"
+          ],
+          "count": 1
+        },
+        "3": {
+          "value": [
+            "minecraft:chiseled_quartz_block",
+            "minecraft:quartz_block",
+            "minecraft:quartz_pillar"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:quartz_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:quartz_stairs",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:chiseled_quartz_block",
+            "minecraft:quartz_block",
+            "minecraft:quartz_pillar"
+          ],
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:chiseled_quartz_block",
+            "minecraft:quartz_block",
+            "minecraft:quartz_pillar"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:chiseled_quartz_block",
+            "minecraft:quartz_block",
+            "minecraft:quartz_pillar"
+          ],
+          "count": 1
+        },
+        "7": {
+          "value": [
+            "minecraft:chiseled_quartz_block",
+            "minecraft:quartz_block",
+            "minecraft:quartz_pillar"
+          ],
+          "count": 1
+        },
+        "8": {
+          "value": [
+            "minecraft:chiseled_quartz_block",
+            "minecraft:quartz_block",
+            "minecraft:quartz_pillar"
+          ],
+          "count": 1
+        },
+        "9": {
+          "value": [
+            "minecraft:chiseled_quartz_block",
+            "minecraft:quartz_block",
+            "minecraft:quartz_pillar"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:quartz_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:rail",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:rail",
+          "count": 16
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:raiser_armor_trim_smithing_template",
+      "input": {
+        "1": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:raiser_armor_trim_smithing_template",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:diamond",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:raiser_armor_trim_smithing_template",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:raw_copper_block",
+      "input": {
+        "1": {
+          "value": "minecraft:raw_copper",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:raw_copper",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:raw_copper",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:raw_copper",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:raw_copper",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:raw_copper",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:raw_copper",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:raw_copper",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:raw_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:raw_copper_block",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:raw_gold_block",
+      "input": {
+        "1": {
+          "value": "minecraft:raw_gold",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:raw_gold",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:raw_gold",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:raw_gold",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:raw_gold",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:raw_gold",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:raw_gold",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:raw_gold",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:raw_gold",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:raw_gold_block",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:raw_iron_block",
+      "input": {
+        "1": {
+          "value": "minecraft:raw_iron",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:raw_iron",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:raw_iron",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:raw_iron",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:raw_iron",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:raw_iron",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:raw_iron",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:raw_iron",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:raw_iron",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:raw_iron_block",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:recovery_compass",
+      "input": {
+        "1": {
+          "value": "minecraft:echo_shard",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:echo_shard",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:echo_shard",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:echo_shard",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:compass",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:echo_shard",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:echo_shard",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:echo_shard",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:echo_shard",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:recovery_compass",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:red_banner",
+      "input": {
+        "1": {
+          "value": "minecraft:red_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:red_wool",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:red_wool",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:red_wool",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:red_wool",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:red_wool",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:red_banner",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:red_bed",
+      "input": {
+        "1": {
+          "value": "minecraft:red_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:red_wool",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:red_wool",
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "6": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:red_bed",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:red_carpet",
+      "input": {
+        "1": {
+          "value": "minecraft:red_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:red_wool",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:red_carpet",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:red_harness",
+      "input": {
+        "1": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:red_wool",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:red_harness",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:red_nether_brick_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:red_nether_bricks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:red_nether_bricks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:red_nether_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:red_nether_brick_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:red_nether_brick_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:red_nether_bricks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:red_nether_bricks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:red_nether_bricks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:red_nether_bricks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:red_nether_bricks",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:red_nether_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:red_nether_brick_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:red_nether_brick_wall",
+      "input": {
+        "1": {
+          "value": "minecraft:red_nether_bricks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:red_nether_bricks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:red_nether_bricks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:red_nether_bricks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:red_nether_bricks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:red_nether_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:red_nether_brick_wall",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:red_nether_bricks",
+      "input": {
+        "1": {
+          "value": "minecraft:nether_brick",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:nether_wart",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:nether_wart",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:nether_brick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:red_nether_bricks",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:red_sandstone",
+      "input": {
+        "1": {
+          "value": "minecraft:red_sand",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:red_sand",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:red_sand",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:red_sand",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:red_sandstone",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:red_sandstone_slab",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:red_sandstone",
+            "minecraft:chiseled_red_sandstone"
+          ],
+          "count": 1
+        },
+        "2": {
+          "value": [
+            "minecraft:red_sandstone",
+            "minecraft:chiseled_red_sandstone"
+          ],
+          "count": 1
+        },
+        "3": {
+          "value": [
+            "minecraft:red_sandstone",
+            "minecraft:chiseled_red_sandstone"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:red_sandstone_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:red_sandstone_stairs",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:red_sandstone",
+            "minecraft:chiseled_red_sandstone",
+            "minecraft:cut_red_sandstone"
+          ],
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:red_sandstone",
+            "minecraft:chiseled_red_sandstone",
+            "minecraft:cut_red_sandstone"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:red_sandstone",
+            "minecraft:chiseled_red_sandstone",
+            "minecraft:cut_red_sandstone"
+          ],
+          "count": 1
+        },
+        "7": {
+          "value": [
+            "minecraft:red_sandstone",
+            "minecraft:chiseled_red_sandstone",
+            "minecraft:cut_red_sandstone"
+          ],
+          "count": 1
+        },
+        "8": {
+          "value": [
+            "minecraft:red_sandstone",
+            "minecraft:chiseled_red_sandstone",
+            "minecraft:cut_red_sandstone"
+          ],
+          "count": 1
+        },
+        "9": {
+          "value": [
+            "minecraft:red_sandstone",
+            "minecraft:chiseled_red_sandstone",
+            "minecraft:cut_red_sandstone"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:red_sandstone_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:red_sandstone_wall",
+      "input": {
+        "1": {
+          "value": "minecraft:red_sandstone",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:red_sandstone",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:red_sandstone",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:red_sandstone",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:red_sandstone",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:red_sandstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:red_sandstone_wall",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:red_stained_glass",
+      "input": {
+        "1": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:red_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:red_stained_glass",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:red_stained_glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:red_stained_glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:red_stained_glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:red_stained_glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:red_stained_glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:red_stained_glass",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:red_stained_glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:red_stained_glass_pane",
+          "count": 16
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:red_stained_glass_pane_from_glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:red_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:red_stained_glass_pane",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:red_terracotta",
+      "input": {
+        "1": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:red_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:red_terracotta",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:redstone_block",
+      "input": {
+        "1": {
+          "value": "minecraft:redstone",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:redstone",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:redstone",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:redstone",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:redstone",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:redstone",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:redstone",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:redstone",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:redstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:redstone_block",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:redstone_lamp",
+      "input": {
+        "2": {
+          "value": "minecraft:redstone",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:redstone",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:glowstone",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:redstone",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:redstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:redstone_lamp",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:redstone_torch",
+      "input": {
+        "1": {
+          "value": "minecraft:redstone",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:redstone_torch",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:repeater",
+      "input": {
+        "1": {
+          "value": "minecraft:redstone_torch",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:redstone",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:redstone_torch",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stone",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stone",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:stone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:repeater",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:resin_block",
+      "input": {
+        "1": {
+          "value": "minecraft:resin_clump",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:resin_clump",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:resin_clump",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:resin_clump",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:resin_clump",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:resin_clump",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:resin_clump",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:resin_clump",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:resin_clump",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:resin_block",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:resin_brick_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:resin_bricks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:resin_bricks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:resin_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:resin_brick_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:resin_brick_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:resin_bricks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:resin_bricks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:resin_bricks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:resin_bricks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:resin_bricks",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:resin_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:resin_brick_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:resin_brick_wall",
+      "input": {
+        "1": {
+          "value": "minecraft:resin_bricks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:resin_bricks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:resin_bricks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:resin_bricks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:resin_bricks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:resin_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:resin_brick_wall",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:resin_bricks",
+      "input": {
+        "1": {
+          "value": "minecraft:resin_brick",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:resin_brick",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:resin_brick",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:resin_brick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:resin_bricks",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:respawn_anchor",
+      "input": {
+        "1": {
+          "value": "minecraft:crying_obsidian",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:crying_obsidian",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:crying_obsidian",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glowstone",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:glowstone",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glowstone",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:crying_obsidian",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:crying_obsidian",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:crying_obsidian",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:respawn_anchor",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:rib_armor_trim_smithing_template",
+      "input": {
+        "1": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:rib_armor_trim_smithing_template",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:netherrack",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:diamond",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:rib_armor_trim_smithing_template",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:saddle",
+      "input": {
+        "2": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:leather",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:saddle",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:sandstone",
+      "input": {
+        "1": {
+          "value": "minecraft:sand",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:sand",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:sand",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:sand",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:sandstone",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:sandstone_slab",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:sandstone",
+            "minecraft:chiseled_sandstone"
+          ],
+          "count": 1
+        },
+        "2": {
+          "value": [
+            "minecraft:sandstone",
+            "minecraft:chiseled_sandstone"
+          ],
+          "count": 1
+        },
+        "3": {
+          "value": [
+            "minecraft:sandstone",
+            "minecraft:chiseled_sandstone"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:sandstone_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:sandstone_stairs",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:sandstone",
+            "minecraft:chiseled_sandstone",
+            "minecraft:cut_sandstone"
+          ],
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:sandstone",
+            "minecraft:chiseled_sandstone",
+            "minecraft:cut_sandstone"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:sandstone",
+            "minecraft:chiseled_sandstone",
+            "minecraft:cut_sandstone"
+          ],
+          "count": 1
+        },
+        "7": {
+          "value": [
+            "minecraft:sandstone",
+            "minecraft:chiseled_sandstone",
+            "minecraft:cut_sandstone"
+          ],
+          "count": 1
+        },
+        "8": {
+          "value": [
+            "minecraft:sandstone",
+            "minecraft:chiseled_sandstone",
+            "minecraft:cut_sandstone"
+          ],
+          "count": 1
+        },
+        "9": {
+          "value": [
+            "minecraft:sandstone",
+            "minecraft:chiseled_sandstone",
+            "minecraft:cut_sandstone"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:sandstone_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:sandstone_wall",
+      "input": {
+        "1": {
+          "value": "minecraft:sandstone",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:sandstone",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:sandstone",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:sandstone",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:sandstone",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:sandstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:sandstone_wall",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:scaffolding",
+      "input": {
+        "1": {
+          "value": "minecraft:bamboo",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:string",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:bamboo",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:bamboo",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:bamboo",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:bamboo",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:bamboo",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:scaffolding",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:sea_lantern",
+      "input": {
+        "1": {
+          "value": "minecraft:prismarine_shard",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:prismarine_crystals",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:prismarine_shard",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:prismarine_crystals",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:prismarine_crystals",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:prismarine_crystals",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:prismarine_shard",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:prismarine_crystals",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:prismarine_shard",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:sea_lantern",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:sentry_armor_trim_smithing_template",
+      "input": {
+        "1": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:sentry_armor_trim_smithing_template",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:diamond",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:sentry_armor_trim_smithing_template",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:shaper_armor_trim_smithing_template",
+      "input": {
+        "1": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:shaper_armor_trim_smithing_template",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:diamond",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:shaper_armor_trim_smithing_template",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:shears",
+      "input": {
+        "2": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:shears",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:shield",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "3": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "6": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "8": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:shield",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:shulker_box",
+      "input": {
+        "1": {
+          "value": "minecraft:shulker_shell",
+          "count": 1
+        },
+        "4": {
+          "base": [
+            "minecraft:chest",
+            "minecraft:trapped_chest"
+          ],
+          "subtracted": "minecraft:trapped_chest",
+          "neoforge:ingredient_type": "neoforge:difference",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:shulker_shell",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:shulker_box",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:silence_armor_trim_smithing_template",
+      "input": {
+        "1": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:silence_armor_trim_smithing_template",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:diamond",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:silence_armor_trim_smithing_template",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:slime_block",
+      "input": {
+        "1": {
+          "value": "minecraft:slime_ball",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:slime_ball",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:slime_ball",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:slime_ball",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:slime_ball",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:slime_ball",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:slime_ball",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:slime_ball",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:slime_ball",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:slime_block",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:smithing_table",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "7": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "8": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:smithing_table",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:smoker",
+      "input": {
+        "2": {
+          "value": [
+            "minecraft:dark_oak_log",
+            "minecraft:dark_oak_wood",
+            "minecraft:stripped_dark_oak_log",
+            "minecraft:stripped_dark_oak_wood",
+            "minecraft:pale_oak_log",
+            "minecraft:pale_oak_wood",
+            "minecraft:stripped_pale_oak_log",
+            "minecraft:stripped_pale_oak_wood",
+            "minecraft:oak_log",
+            "minecraft:oak_wood",
+            "minecraft:stripped_oak_log",
+            "minecraft:stripped_oak_wood",
+            "minecraft:acacia_log",
+            "minecraft:acacia_wood",
+            "minecraft:stripped_acacia_log",
+            "minecraft:stripped_acacia_wood",
+            "minecraft:birch_log",
+            "minecraft:birch_wood",
+            "minecraft:stripped_birch_log",
+            "minecraft:stripped_birch_wood",
+            "minecraft:jungle_log",
+            "minecraft:jungle_wood",
+            "minecraft:stripped_jungle_log",
+            "minecraft:stripped_jungle_wood",
+            "minecraft:spruce_log",
+            "minecraft:spruce_wood",
+            "minecraft:stripped_spruce_log",
+            "minecraft:stripped_spruce_wood",
+            "minecraft:mangrove_log",
+            "minecraft:mangrove_wood",
+            "minecraft:stripped_mangrove_log",
+            "minecraft:stripped_mangrove_wood",
+            "minecraft:cherry_log",
+            "minecraft:cherry_wood",
+            "minecraft:stripped_cherry_log",
+            "minecraft:stripped_cherry_wood",
+            "minecraft:crimson_stem",
+            "minecraft:stripped_crimson_stem",
+            "minecraft:crimson_hyphae",
+            "minecraft:stripped_crimson_hyphae",
+            "minecraft:warped_stem",
+            "minecraft:stripped_warped_stem",
+            "minecraft:warped_hyphae",
+            "minecraft:stripped_warped_hyphae"
+          ],
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:dark_oak_log",
+            "minecraft:dark_oak_wood",
+            "minecraft:stripped_dark_oak_log",
+            "minecraft:stripped_dark_oak_wood",
+            "minecraft:pale_oak_log",
+            "minecraft:pale_oak_wood",
+            "minecraft:stripped_pale_oak_log",
+            "minecraft:stripped_pale_oak_wood",
+            "minecraft:oak_log",
+            "minecraft:oak_wood",
+            "minecraft:stripped_oak_log",
+            "minecraft:stripped_oak_wood",
+            "minecraft:acacia_log",
+            "minecraft:acacia_wood",
+            "minecraft:stripped_acacia_log",
+            "minecraft:stripped_acacia_wood",
+            "minecraft:birch_log",
+            "minecraft:birch_wood",
+            "minecraft:stripped_birch_log",
+            "minecraft:stripped_birch_wood",
+            "minecraft:jungle_log",
+            "minecraft:jungle_wood",
+            "minecraft:stripped_jungle_log",
+            "minecraft:stripped_jungle_wood",
+            "minecraft:spruce_log",
+            "minecraft:spruce_wood",
+            "minecraft:stripped_spruce_log",
+            "minecraft:stripped_spruce_wood",
+            "minecraft:mangrove_log",
+            "minecraft:mangrove_wood",
+            "minecraft:stripped_mangrove_log",
+            "minecraft:stripped_mangrove_wood",
+            "minecraft:cherry_log",
+            "minecraft:cherry_wood",
+            "minecraft:stripped_cherry_log",
+            "minecraft:stripped_cherry_wood",
+            "minecraft:crimson_stem",
+            "minecraft:stripped_crimson_stem",
+            "minecraft:crimson_hyphae",
+            "minecraft:stripped_crimson_hyphae",
+            "minecraft:warped_stem",
+            "minecraft:stripped_warped_stem",
+            "minecraft:warped_hyphae",
+            "minecraft:stripped_warped_hyphae"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:furnace",
+          "count": 1
+        },
+        "6": {
+          "value": [
+            "minecraft:dark_oak_log",
+            "minecraft:dark_oak_wood",
+            "minecraft:stripped_dark_oak_log",
+            "minecraft:stripped_dark_oak_wood",
+            "minecraft:pale_oak_log",
+            "minecraft:pale_oak_wood",
+            "minecraft:stripped_pale_oak_log",
+            "minecraft:stripped_pale_oak_wood",
+            "minecraft:oak_log",
+            "minecraft:oak_wood",
+            "minecraft:stripped_oak_log",
+            "minecraft:stripped_oak_wood",
+            "minecraft:acacia_log",
+            "minecraft:acacia_wood",
+            "minecraft:stripped_acacia_log",
+            "minecraft:stripped_acacia_wood",
+            "minecraft:birch_log",
+            "minecraft:birch_wood",
+            "minecraft:stripped_birch_log",
+            "minecraft:stripped_birch_wood",
+            "minecraft:jungle_log",
+            "minecraft:jungle_wood",
+            "minecraft:stripped_jungle_log",
+            "minecraft:stripped_jungle_wood",
+            "minecraft:spruce_log",
+            "minecraft:spruce_wood",
+            "minecraft:stripped_spruce_log",
+            "minecraft:stripped_spruce_wood",
+            "minecraft:mangrove_log",
+            "minecraft:mangrove_wood",
+            "minecraft:stripped_mangrove_log",
+            "minecraft:stripped_mangrove_wood",
+            "minecraft:cherry_log",
+            "minecraft:cherry_wood",
+            "minecraft:stripped_cherry_log",
+            "minecraft:stripped_cherry_wood",
+            "minecraft:crimson_stem",
+            "minecraft:stripped_crimson_stem",
+            "minecraft:crimson_hyphae",
+            "minecraft:stripped_crimson_hyphae",
+            "minecraft:warped_stem",
+            "minecraft:stripped_warped_stem",
+            "minecraft:warped_hyphae",
+            "minecraft:stripped_warped_hyphae"
+          ],
+          "count": 1
+        },
+        "8": {
+          "value": [
+            "minecraft:dark_oak_log",
+            "minecraft:dark_oak_wood",
+            "minecraft:stripped_dark_oak_log",
+            "minecraft:stripped_dark_oak_wood",
+            "minecraft:pale_oak_log",
+            "minecraft:pale_oak_wood",
+            "minecraft:stripped_pale_oak_log",
+            "minecraft:stripped_pale_oak_wood",
+            "minecraft:oak_log",
+            "minecraft:oak_wood",
+            "minecraft:stripped_oak_log",
+            "minecraft:stripped_oak_wood",
+            "minecraft:acacia_log",
+            "minecraft:acacia_wood",
+            "minecraft:stripped_acacia_log",
+            "minecraft:stripped_acacia_wood",
+            "minecraft:birch_log",
+            "minecraft:birch_wood",
+            "minecraft:stripped_birch_log",
+            "minecraft:stripped_birch_wood",
+            "minecraft:jungle_log",
+            "minecraft:jungle_wood",
+            "minecraft:stripped_jungle_log",
+            "minecraft:stripped_jungle_wood",
+            "minecraft:spruce_log",
+            "minecraft:spruce_wood",
+            "minecraft:stripped_spruce_log",
+            "minecraft:stripped_spruce_wood",
+            "minecraft:mangrove_log",
+            "minecraft:mangrove_wood",
+            "minecraft:stripped_mangrove_log",
+            "minecraft:stripped_mangrove_wood",
+            "minecraft:cherry_log",
+            "minecraft:cherry_wood",
+            "minecraft:stripped_cherry_log",
+            "minecraft:stripped_cherry_wood",
+            "minecraft:crimson_stem",
+            "minecraft:stripped_crimson_stem",
+            "minecraft:crimson_hyphae",
+            "minecraft:stripped_crimson_hyphae",
+            "minecraft:warped_stem",
+            "minecraft:stripped_warped_stem",
+            "minecraft:warped_hyphae",
+            "minecraft:stripped_warped_hyphae"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:smoker",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:smooth_quartz_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:smooth_quartz",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:smooth_quartz",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:smooth_quartz",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:smooth_quartz_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:smooth_quartz_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:smooth_quartz",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:smooth_quartz",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:smooth_quartz",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:smooth_quartz",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:smooth_quartz",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:smooth_quartz",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:smooth_quartz_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:smooth_red_sandstone_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:smooth_red_sandstone",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:smooth_red_sandstone",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:smooth_red_sandstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:smooth_red_sandstone_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:smooth_red_sandstone_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:smooth_red_sandstone",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:smooth_red_sandstone",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:smooth_red_sandstone",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:smooth_red_sandstone",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:smooth_red_sandstone",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:smooth_red_sandstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:smooth_red_sandstone_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:smooth_sandstone_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:smooth_sandstone",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:smooth_sandstone",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:smooth_sandstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:smooth_sandstone_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:smooth_sandstone_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:smooth_sandstone",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:smooth_sandstone",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:smooth_sandstone",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:smooth_sandstone",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:smooth_sandstone",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:smooth_sandstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:smooth_sandstone_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:smooth_stone_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:smooth_stone",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:smooth_stone",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:smooth_stone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:smooth_stone_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:snout_armor_trim_smithing_template",
+      "input": {
+        "1": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:snout_armor_trim_smithing_template",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:blackstone",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:diamond",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:snout_armor_trim_smithing_template",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:snow",
+      "input": {
+        "1": {
+          "value": "minecraft:snow_block",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:snow_block",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:snow_block",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:snow",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:snow_block",
+      "input": {
+        "1": {
+          "value": "minecraft:snowball",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:snowball",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:snowball",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:snowball",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:snow_block",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:soul_campfire",
+      "input": {
+        "2": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:soul_sand",
+            "minecraft:soul_soil"
+          ],
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "7": {
+          "value": [
+            "minecraft:dark_oak_log",
+            "minecraft:dark_oak_wood",
+            "minecraft:stripped_dark_oak_log",
+            "minecraft:stripped_dark_oak_wood",
+            "minecraft:pale_oak_log",
+            "minecraft:pale_oak_wood",
+            "minecraft:stripped_pale_oak_log",
+            "minecraft:stripped_pale_oak_wood",
+            "minecraft:oak_log",
+            "minecraft:oak_wood",
+            "minecraft:stripped_oak_log",
+            "minecraft:stripped_oak_wood",
+            "minecraft:acacia_log",
+            "minecraft:acacia_wood",
+            "minecraft:stripped_acacia_log",
+            "minecraft:stripped_acacia_wood",
+            "minecraft:birch_log",
+            "minecraft:birch_wood",
+            "minecraft:stripped_birch_log",
+            "minecraft:stripped_birch_wood",
+            "minecraft:jungle_log",
+            "minecraft:jungle_wood",
+            "minecraft:stripped_jungle_log",
+            "minecraft:stripped_jungle_wood",
+            "minecraft:spruce_log",
+            "minecraft:spruce_wood",
+            "minecraft:stripped_spruce_log",
+            "minecraft:stripped_spruce_wood",
+            "minecraft:mangrove_log",
+            "minecraft:mangrove_wood",
+            "minecraft:stripped_mangrove_log",
+            "minecraft:stripped_mangrove_wood",
+            "minecraft:cherry_log",
+            "minecraft:cherry_wood",
+            "minecraft:stripped_cherry_log",
+            "minecraft:stripped_cherry_wood",
+            "minecraft:crimson_stem",
+            "minecraft:stripped_crimson_stem",
+            "minecraft:crimson_hyphae",
+            "minecraft:stripped_crimson_hyphae",
+            "minecraft:warped_stem",
+            "minecraft:stripped_warped_stem",
+            "minecraft:warped_hyphae",
+            "minecraft:stripped_warped_hyphae"
+          ],
+          "count": 1
+        },
+        "8": {
+          "value": [
+            "minecraft:dark_oak_log",
+            "minecraft:dark_oak_wood",
+            "minecraft:stripped_dark_oak_log",
+            "minecraft:stripped_dark_oak_wood",
+            "minecraft:pale_oak_log",
+            "minecraft:pale_oak_wood",
+            "minecraft:stripped_pale_oak_log",
+            "minecraft:stripped_pale_oak_wood",
+            "minecraft:oak_log",
+            "minecraft:oak_wood",
+            "minecraft:stripped_oak_log",
+            "minecraft:stripped_oak_wood",
+            "minecraft:acacia_log",
+            "minecraft:acacia_wood",
+            "minecraft:stripped_acacia_log",
+            "minecraft:stripped_acacia_wood",
+            "minecraft:birch_log",
+            "minecraft:birch_wood",
+            "minecraft:stripped_birch_log",
+            "minecraft:stripped_birch_wood",
+            "minecraft:jungle_log",
+            "minecraft:jungle_wood",
+            "minecraft:stripped_jungle_log",
+            "minecraft:stripped_jungle_wood",
+            "minecraft:spruce_log",
+            "minecraft:spruce_wood",
+            "minecraft:stripped_spruce_log",
+            "minecraft:stripped_spruce_wood",
+            "minecraft:mangrove_log",
+            "minecraft:mangrove_wood",
+            "minecraft:stripped_mangrove_log",
+            "minecraft:stripped_mangrove_wood",
+            "minecraft:cherry_log",
+            "minecraft:cherry_wood",
+            "minecraft:stripped_cherry_log",
+            "minecraft:stripped_cherry_wood",
+            "minecraft:crimson_stem",
+            "minecraft:stripped_crimson_stem",
+            "minecraft:crimson_hyphae",
+            "minecraft:stripped_crimson_hyphae",
+            "minecraft:warped_stem",
+            "minecraft:stripped_warped_stem",
+            "minecraft:warped_hyphae",
+            "minecraft:stripped_warped_hyphae"
+          ],
+          "count": 1
+        },
+        "9": {
+          "value": [
+            "minecraft:dark_oak_log",
+            "minecraft:dark_oak_wood",
+            "minecraft:stripped_dark_oak_log",
+            "minecraft:stripped_dark_oak_wood",
+            "minecraft:pale_oak_log",
+            "minecraft:pale_oak_wood",
+            "minecraft:stripped_pale_oak_log",
+            "minecraft:stripped_pale_oak_wood",
+            "minecraft:oak_log",
+            "minecraft:oak_wood",
+            "minecraft:stripped_oak_log",
+            "minecraft:stripped_oak_wood",
+            "minecraft:acacia_log",
+            "minecraft:acacia_wood",
+            "minecraft:stripped_acacia_log",
+            "minecraft:stripped_acacia_wood",
+            "minecraft:birch_log",
+            "minecraft:birch_wood",
+            "minecraft:stripped_birch_log",
+            "minecraft:stripped_birch_wood",
+            "minecraft:jungle_log",
+            "minecraft:jungle_wood",
+            "minecraft:stripped_jungle_log",
+            "minecraft:stripped_jungle_wood",
+            "minecraft:spruce_log",
+            "minecraft:spruce_wood",
+            "minecraft:stripped_spruce_log",
+            "minecraft:stripped_spruce_wood",
+            "minecraft:mangrove_log",
+            "minecraft:mangrove_wood",
+            "minecraft:stripped_mangrove_log",
+            "minecraft:stripped_mangrove_wood",
+            "minecraft:cherry_log",
+            "minecraft:cherry_wood",
+            "minecraft:stripped_cherry_log",
+            "minecraft:stripped_cherry_wood",
+            "minecraft:crimson_stem",
+            "minecraft:stripped_crimson_stem",
+            "minecraft:crimson_hyphae",
+            "minecraft:stripped_crimson_hyphae",
+            "minecraft:warped_stem",
+            "minecraft:stripped_warped_stem",
+            "minecraft:warped_hyphae",
+            "minecraft:stripped_warped_hyphae"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:soul_campfire",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:soul_lantern",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_nugget",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:iron_nugget",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:iron_nugget",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:iron_nugget",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:soul_torch",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:iron_nugget",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:iron_nugget",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:iron_nugget",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:iron_nugget",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:soul_lantern",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:soul_torch",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:coal",
+            "minecraft:charcoal"
+          ],
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "7": {
+          "value": [
+            "minecraft:soul_sand",
+            "minecraft:soul_soil"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:soul_torch",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:spectral_arrow",
+      "input": {
+        "2": {
+          "value": "minecraft:glowstone_dust",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glowstone_dust",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:arrow",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glowstone_dust",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glowstone_dust",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:spectral_arrow",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:spire_armor_trim_smithing_template",
+      "input": {
+        "1": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:spire_armor_trim_smithing_template",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:purpur_block",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:diamond",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:spire_armor_trim_smithing_template",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:spruce_boat",
+      "input": {
+        "1": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:spruce_boat",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:spruce_door",
+      "input": {
+        "1": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:spruce_door",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:spruce_fence",
+      "input": {
+        "1": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:spruce_fence",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:spruce_fence_gate",
+      "input": {
+        "1": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:spruce_fence_gate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:spruce_hanging_sign",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_chain",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:iron_chain",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stripped_spruce_log",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stripped_spruce_log",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:stripped_spruce_log",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stripped_spruce_log",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stripped_spruce_log",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:stripped_spruce_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:spruce_hanging_sign",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:spruce_pressure_plate",
+      "input": {
+        "1": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:spruce_pressure_plate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:spruce_shelf",
+      "input": {
+        "1": {
+          "value": "minecraft:stripped_spruce_log",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stripped_spruce_log",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stripped_spruce_log",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stripped_spruce_log",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stripped_spruce_log",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:stripped_spruce_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:spruce_shelf",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:spruce_sign",
+      "input": {
+        "1": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:spruce_sign",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:spruce_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:spruce_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:spruce_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:spruce_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:spruce_trapdoor",
+      "input": {
+        "1": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:spruce_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:spruce_trapdoor",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:spruce_wood",
+      "input": {
+        "1": {
+          "value": "minecraft:spruce_log",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:spruce_log",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:spruce_log",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:spruce_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:spruce_wood",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:spyglass",
+      "input": {
+        "1": {
+          "value": "minecraft:amethyst_shard",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:copper_ingot",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:spyglass",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:stick",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stick",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:stick_from_bamboo_item",
+      "input": {
+        "1": {
+          "value": "minecraft:bamboo",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:bamboo",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:sticky_piston",
+      "input": {
+        "1": {
+          "value": "minecraft:slime_ball",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:piston",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:sticky_piston",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:stone_axe",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:cobblestone",
+            "minecraft:blackstone",
+            "minecraft:cobbled_deepslate"
+          ],
+          "count": 1
+        },
+        "2": {
+          "value": [
+            "minecraft:cobblestone",
+            "minecraft:blackstone",
+            "minecraft:cobbled_deepslate"
+          ],
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:cobblestone",
+            "minecraft:blackstone",
+            "minecraft:cobbled_deepslate"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stone_axe",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:stone_brick_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:stone_bricks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stone_bricks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stone_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stone_brick_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:stone_brick_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:stone_bricks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stone_bricks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stone_bricks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stone_bricks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stone_bricks",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:stone_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stone_brick_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:stone_brick_wall",
+      "input": {
+        "1": {
+          "value": "minecraft:stone_bricks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stone_bricks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stone_bricks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stone_bricks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stone_bricks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:stone_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stone_brick_wall",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:stone_bricks",
+      "input": {
+        "1": {
+          "value": "minecraft:stone",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stone",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stone",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stone_bricks",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:stone_hoe",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:cobblestone",
+            "minecraft:blackstone",
+            "minecraft:cobbled_deepslate"
+          ],
+          "count": 1
+        },
+        "2": {
+          "value": [
+            "minecraft:cobblestone",
+            "minecraft:blackstone",
+            "minecraft:cobbled_deepslate"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stone_hoe",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:stone_pickaxe",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:cobblestone",
+            "minecraft:blackstone",
+            "minecraft:cobbled_deepslate"
+          ],
+          "count": 1
+        },
+        "2": {
+          "value": [
+            "minecraft:cobblestone",
+            "minecraft:blackstone",
+            "minecraft:cobbled_deepslate"
+          ],
+          "count": 1
+        },
+        "3": {
+          "value": [
+            "minecraft:cobblestone",
+            "minecraft:blackstone",
+            "minecraft:cobbled_deepslate"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stone_pickaxe",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:stone_pressure_plate",
+      "input": {
+        "1": {
+          "value": "minecraft:stone",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stone_pressure_plate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:stone_shovel",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:cobblestone",
+            "minecraft:blackstone",
+            "minecraft:cobbled_deepslate"
+          ],
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stone_shovel",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:stone_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:stone",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stone",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stone_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:stone_spear",
+      "input": {
+        "3": {
+          "value": [
+            "minecraft:cobblestone",
+            "minecraft:blackstone",
+            "minecraft:cobbled_deepslate"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stone_spear",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:stone_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:stone",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stone",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stone",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stone",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stone",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:stone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stone_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:stone_sword",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:cobblestone",
+            "minecraft:blackstone",
+            "minecraft:cobbled_deepslate"
+          ],
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:cobblestone",
+            "minecraft:blackstone",
+            "minecraft:cobbled_deepslate"
+          ],
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stone_sword",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:stonecutter",
+      "input": {
+        "2": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stone",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stone",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:stone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stonecutter",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:stripped_acacia_wood",
+      "input": {
+        "1": {
+          "value": "minecraft:stripped_acacia_log",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stripped_acacia_log",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stripped_acacia_log",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stripped_acacia_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stripped_acacia_wood",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:stripped_birch_wood",
+      "input": {
+        "1": {
+          "value": "minecraft:stripped_birch_log",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stripped_birch_log",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stripped_birch_log",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stripped_birch_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stripped_birch_wood",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:stripped_cherry_wood",
+      "input": {
+        "1": {
+          "value": "minecraft:stripped_cherry_log",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stripped_cherry_log",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stripped_cherry_log",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stripped_cherry_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stripped_cherry_wood",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:stripped_crimson_hyphae",
+      "input": {
+        "1": {
+          "value": "minecraft:stripped_crimson_stem",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stripped_crimson_stem",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stripped_crimson_stem",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stripped_crimson_stem",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stripped_crimson_hyphae",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:stripped_dark_oak_wood",
+      "input": {
+        "1": {
+          "value": "minecraft:stripped_dark_oak_log",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stripped_dark_oak_log",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stripped_dark_oak_log",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stripped_dark_oak_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stripped_dark_oak_wood",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:stripped_jungle_wood",
+      "input": {
+        "1": {
+          "value": "minecraft:stripped_jungle_log",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stripped_jungle_log",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stripped_jungle_log",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stripped_jungle_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stripped_jungle_wood",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:stripped_mangrove_wood",
+      "input": {
+        "1": {
+          "value": "minecraft:stripped_mangrove_log",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stripped_mangrove_log",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stripped_mangrove_log",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stripped_mangrove_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stripped_mangrove_wood",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:stripped_oak_wood",
+      "input": {
+        "1": {
+          "value": "minecraft:stripped_oak_log",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stripped_oak_log",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stripped_oak_log",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stripped_oak_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stripped_oak_wood",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:stripped_pale_oak_wood",
+      "input": {
+        "1": {
+          "value": "minecraft:stripped_pale_oak_log",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stripped_pale_oak_log",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stripped_pale_oak_log",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stripped_pale_oak_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stripped_pale_oak_wood",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:stripped_spruce_wood",
+      "input": {
+        "1": {
+          "value": "minecraft:stripped_spruce_log",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stripped_spruce_log",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stripped_spruce_log",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stripped_spruce_log",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stripped_spruce_wood",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:stripped_warped_hyphae",
+      "input": {
+        "1": {
+          "value": "minecraft:stripped_warped_stem",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stripped_warped_stem",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stripped_warped_stem",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stripped_warped_stem",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:stripped_warped_hyphae",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:target",
+      "input": {
+        "2": {
+          "value": "minecraft:redstone",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:redstone",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:hay_block",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:redstone",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:redstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:target",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:tide_armor_trim_smithing_template",
+      "input": {
+        "1": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:tide_armor_trim_smithing_template",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:prismarine",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:diamond",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:tide_armor_trim_smithing_template",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:tinted_glass",
+      "input": {
+        "2": {
+          "value": "minecraft:amethyst_shard",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:amethyst_shard",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:amethyst_shard",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:amethyst_shard",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:tinted_glass",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:tnt",
+      "input": {
+        "1": {
+          "value": "minecraft:gunpowder",
+          "count": 1
+        },
+        "2": {
+          "value": [
+            "minecraft:sand",
+            "minecraft:red_sand"
+          ],
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:gunpowder",
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:sand",
+            "minecraft:red_sand"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:gunpowder",
+          "count": 1
+        },
+        "6": {
+          "value": [
+            "minecraft:sand",
+            "minecraft:red_sand"
+          ],
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:gunpowder",
+          "count": 1
+        },
+        "8": {
+          "value": [
+            "minecraft:sand",
+            "minecraft:red_sand"
+          ],
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:gunpowder",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:tnt",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:torch",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:coal",
+            "minecraft:charcoal"
+          ],
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:torch",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:tripwire_hook",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_ingot",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "7": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:tripwire_hook",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:tuff_brick_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:tuff_bricks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:tuff_bricks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:tuff_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:tuff_brick_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:tuff_brick_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:tuff_bricks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:tuff_bricks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:tuff_bricks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:tuff_bricks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:tuff_bricks",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:tuff_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:tuff_brick_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:tuff_brick_wall",
+      "input": {
+        "1": {
+          "value": "minecraft:tuff_bricks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:tuff_bricks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:tuff_bricks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:tuff_bricks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:tuff_bricks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:tuff_bricks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:tuff_brick_wall",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:tuff_bricks",
+      "input": {
+        "1": {
+          "value": "minecraft:polished_tuff",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:polished_tuff",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:polished_tuff",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:polished_tuff",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:tuff_bricks",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:tuff_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:tuff",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:tuff",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:tuff",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:tuff_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:tuff_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:tuff",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:tuff",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:tuff",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:tuff",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:tuff",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:tuff",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:tuff_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:tuff_wall",
+      "input": {
+        "1": {
+          "value": "minecraft:tuff",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:tuff",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:tuff",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:tuff",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:tuff",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:tuff",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:tuff_wall",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:turtle_helmet",
+      "input": {
+        "1": {
+          "value": "minecraft:turtle_scute",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:turtle_scute",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:turtle_scute",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:turtle_scute",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:turtle_scute",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:turtle_helmet",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:vex_armor_trim_smithing_template",
+      "input": {
+        "1": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:vex_armor_trim_smithing_template",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:cobblestone",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:diamond",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:vex_armor_trim_smithing_template",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:ward_armor_trim_smithing_template",
+      "input": {
+        "1": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:ward_armor_trim_smithing_template",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:cobbled_deepslate",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:diamond",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:ward_armor_trim_smithing_template",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:warped_door",
+      "input": {
+        "1": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:warped_door",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:warped_fence",
+      "input": {
+        "1": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:warped_fence",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:warped_fence_gate",
+      "input": {
+        "1": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:warped_fence_gate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:warped_fungus_on_a_stick",
+      "input": {
+        "1": {
+          "value": "minecraft:fishing_rod",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:warped_fungus",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:warped_fungus_on_a_stick",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:warped_hanging_sign",
+      "input": {
+        "1": {
+          "value": "minecraft:iron_chain",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:iron_chain",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stripped_warped_stem",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stripped_warped_stem",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:stripped_warped_stem",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stripped_warped_stem",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stripped_warped_stem",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:stripped_warped_stem",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:warped_hanging_sign",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:warped_hyphae",
+      "input": {
+        "1": {
+          "value": "minecraft:warped_stem",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:warped_stem",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:warped_stem",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:warped_stem",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:warped_hyphae",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:warped_pressure_plate",
+      "input": {
+        "1": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:warped_pressure_plate",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:warped_shelf",
+      "input": {
+        "1": {
+          "value": "minecraft:stripped_warped_stem",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:stripped_warped_stem",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:stripped_warped_stem",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stripped_warped_stem",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stripped_warped_stem",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:stripped_warped_stem",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:warped_shelf",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:warped_sign",
+      "input": {
+        "1": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:warped_sign",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:warped_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:warped_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:warped_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:warped_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:warped_trapdoor",
+      "input": {
+        "1": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:warped_planks",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:warped_trapdoor",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:waxed_chiseled_copper",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_cut_copper_slab",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:waxed_cut_copper_slab",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_chiseled_copper",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:waxed_copper_bulb",
+      "input": {
+        "2": {
+          "value": "minecraft:waxed_copper_block",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:waxed_copper_block",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:blaze_rod",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:waxed_copper_block",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:redstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_copper_bulb",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:waxed_copper_grate",
+      "input": {
+        "2": {
+          "value": "minecraft:waxed_copper_block",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:waxed_copper_block",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:waxed_copper_block",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:waxed_copper_block",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_copper_grate",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:waxed_cut_copper",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_copper_block",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:waxed_copper_block",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:waxed_copper_block",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:waxed_copper_block",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_cut_copper",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:waxed_cut_copper_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_cut_copper",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:waxed_cut_copper",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:waxed_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_cut_copper_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:waxed_cut_copper_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_cut_copper",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:waxed_cut_copper",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:waxed_cut_copper",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:waxed_cut_copper",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:waxed_cut_copper",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:waxed_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_cut_copper_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:waxed_exposed_chiseled_copper",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_exposed_cut_copper_slab",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:waxed_exposed_cut_copper_slab",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_exposed_chiseled_copper",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:waxed_exposed_copper_bulb",
+      "input": {
+        "2": {
+          "value": "minecraft:waxed_exposed_copper",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:waxed_exposed_copper",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:blaze_rod",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:waxed_exposed_copper",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:redstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_exposed_copper_bulb",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:waxed_exposed_copper_grate",
+      "input": {
+        "2": {
+          "value": "minecraft:waxed_exposed_copper",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:waxed_exposed_copper",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:waxed_exposed_copper",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:waxed_exposed_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_exposed_copper_grate",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:waxed_exposed_cut_copper",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_exposed_copper",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:waxed_exposed_copper",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:waxed_exposed_copper",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:waxed_exposed_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_exposed_cut_copper",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:waxed_exposed_cut_copper_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_exposed_cut_copper",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:waxed_exposed_cut_copper",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:waxed_exposed_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_exposed_cut_copper_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:waxed_exposed_cut_copper_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_exposed_cut_copper",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:waxed_exposed_cut_copper",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:waxed_exposed_cut_copper",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:waxed_exposed_cut_copper",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:waxed_exposed_cut_copper",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:waxed_exposed_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_exposed_cut_copper_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:waxed_oxidized_chiseled_copper",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_oxidized_cut_copper_slab",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:waxed_oxidized_cut_copper_slab",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_oxidized_chiseled_copper",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:waxed_oxidized_copper_bulb",
+      "input": {
+        "2": {
+          "value": "minecraft:waxed_oxidized_copper",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:waxed_oxidized_copper",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:blaze_rod",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:waxed_oxidized_copper",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:redstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_oxidized_copper_bulb",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:waxed_oxidized_copper_grate",
+      "input": {
+        "2": {
+          "value": "minecraft:waxed_oxidized_copper",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:waxed_oxidized_copper",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:waxed_oxidized_copper",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:waxed_oxidized_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_oxidized_copper_grate",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:waxed_oxidized_cut_copper",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_oxidized_copper",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:waxed_oxidized_copper",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:waxed_oxidized_copper",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:waxed_oxidized_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_oxidized_cut_copper",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:waxed_oxidized_cut_copper_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_oxidized_cut_copper",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:waxed_oxidized_cut_copper",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:waxed_oxidized_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_oxidized_cut_copper_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:waxed_oxidized_cut_copper_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_oxidized_cut_copper",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:waxed_oxidized_cut_copper",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:waxed_oxidized_cut_copper",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:waxed_oxidized_cut_copper",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:waxed_oxidized_cut_copper",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:waxed_oxidized_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_oxidized_cut_copper_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:waxed_weathered_chiseled_copper",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_weathered_cut_copper_slab",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:waxed_weathered_cut_copper_slab",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_weathered_chiseled_copper",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:waxed_weathered_copper_bulb",
+      "input": {
+        "2": {
+          "value": "minecraft:waxed_weathered_copper",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:waxed_weathered_copper",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:blaze_rod",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:waxed_weathered_copper",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:redstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_weathered_copper_bulb",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:waxed_weathered_copper_grate",
+      "input": {
+        "2": {
+          "value": "minecraft:waxed_weathered_copper",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:waxed_weathered_copper",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:waxed_weathered_copper",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:waxed_weathered_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_weathered_copper_grate",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:waxed_weathered_cut_copper",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_weathered_copper",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:waxed_weathered_copper",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:waxed_weathered_copper",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:waxed_weathered_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_weathered_cut_copper",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:waxed_weathered_cut_copper_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_weathered_cut_copper",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:waxed_weathered_cut_copper",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:waxed_weathered_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_weathered_cut_copper_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:waxed_weathered_cut_copper_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:waxed_weathered_cut_copper",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:waxed_weathered_cut_copper",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:waxed_weathered_cut_copper",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:waxed_weathered_cut_copper",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:waxed_weathered_cut_copper",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:waxed_weathered_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:waxed_weathered_cut_copper_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:wayfinder_armor_trim_smithing_template",
+      "input": {
+        "1": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:wayfinder_armor_trim_smithing_template",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:diamond",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:wayfinder_armor_trim_smithing_template",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:weathered_chiseled_copper",
+      "input": {
+        "1": {
+          "value": "minecraft:weathered_cut_copper_slab",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:weathered_cut_copper_slab",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:weathered_chiseled_copper",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:weathered_copper_bulb",
+      "input": {
+        "2": {
+          "value": "minecraft:weathered_copper",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:weathered_copper",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:blaze_rod",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:weathered_copper",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:redstone",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:weathered_copper_bulb",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:weathered_copper_grate",
+      "input": {
+        "2": {
+          "value": "minecraft:weathered_copper",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:weathered_copper",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:weathered_copper",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:weathered_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:weathered_copper_grate",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:weathered_cut_copper",
+      "input": {
+        "1": {
+          "value": "minecraft:weathered_copper",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:weathered_copper",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:weathered_copper",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:weathered_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:weathered_cut_copper",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:weathered_cut_copper_slab",
+      "input": {
+        "1": {
+          "value": "minecraft:weathered_cut_copper",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:weathered_cut_copper",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:weathered_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:weathered_cut_copper_slab",
+          "count": 6
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:weathered_cut_copper_stairs",
+      "input": {
+        "1": {
+          "value": "minecraft:weathered_cut_copper",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:weathered_cut_copper",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:weathered_cut_copper",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:weathered_cut_copper",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:weathered_cut_copper",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:weathered_cut_copper",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:weathered_cut_copper_stairs",
+          "count": 4
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:white_banner",
+      "input": {
+        "1": {
+          "value": "minecraft:white_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:white_wool",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:white_wool",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:white_wool",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:white_wool",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:white_wool",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:white_banner",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:white_bed",
+      "input": {
+        "1": {
+          "value": "minecraft:white_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:white_wool",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:white_wool",
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "6": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:white_bed",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:white_carpet",
+      "input": {
+        "1": {
+          "value": "minecraft:white_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:white_wool",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:white_carpet",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:white_harness",
+      "input": {
+        "1": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:white_wool",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:white_harness",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:white_stained_glass",
+      "input": {
+        "1": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:white_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:white_stained_glass",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:white_stained_glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:white_stained_glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:white_stained_glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:white_stained_glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:white_stained_glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:white_stained_glass",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:white_stained_glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:white_stained_glass_pane",
+          "count": 16
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:white_stained_glass_pane_from_glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:white_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:white_stained_glass_pane",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:white_terracotta",
+      "input": {
+        "1": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:white_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:white_terracotta",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:white_wool_from_string",
+      "input": {
+        "1": {
+          "value": "minecraft:string",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:string",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:string",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:string",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:white_wool",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:wild_armor_trim_smithing_template",
+      "input": {
+        "1": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:wild_armor_trim_smithing_template",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:mossy_cobblestone",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:diamond",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:diamond",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:wild_armor_trim_smithing_template",
+          "count": 2
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:wolf_armor",
+      "input": {
+        "1": {
+          "value": "minecraft:armadillo_scute",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:armadillo_scute",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:armadillo_scute",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:armadillo_scute",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:armadillo_scute",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:armadillo_scute",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:wolf_armor",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:wooden_axe",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "2": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:wooden_axe",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:wooden_hoe",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "2": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:wooden_hoe",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:wooden_pickaxe",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "2": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "3": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:wooden_pickaxe",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:wooden_shovel",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:wooden_shovel",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:wooden_spear",
+      "input": {
+        "3": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:stick",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:wooden_spear",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:wooden_sword",
+      "input": {
+        "1": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:wooden_sword",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:yellow_banner",
+      "input": {
+        "1": {
+          "value": "minecraft:yellow_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:yellow_wool",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:yellow_wool",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:yellow_wool",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:yellow_wool",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:yellow_wool",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:stick",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:yellow_banner",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:yellow_bed",
+      "input": {
+        "1": {
+          "value": "minecraft:yellow_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:yellow_wool",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:yellow_wool",
+          "count": 1
+        },
+        "4": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "5": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        },
+        "6": {
+          "value": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:cherry_planks"
+          ],
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:yellow_bed",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:yellow_carpet",
+      "input": {
+        "1": {
+          "value": "minecraft:yellow_wool",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:yellow_wool",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:yellow_carpet",
+          "count": 3
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:yellow_harness",
+      "input": {
+        "1": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:leather",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:yellow_wool",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:yellow_harness",
+          "count": 1
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:yellow_stained_glass",
+      "input": {
+        "1": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:yellow_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glass",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:yellow_stained_glass",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:yellow_stained_glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:yellow_stained_glass",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:yellow_stained_glass",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:yellow_stained_glass",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:yellow_stained_glass",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:yellow_stained_glass",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:yellow_stained_glass",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:yellow_stained_glass_pane",
+          "count": 16
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:yellow_stained_glass_pane_from_glass_pane",
+      "input": {
+        "1": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:yellow_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:glass_pane",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:yellow_stained_glass_pane",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    },
+    {
+      "type": "crafting_shaped",
+      "name": "minecraft:yellow_terracotta",
+      "input": {
+        "1": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "2": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "3": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "4": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "5": {
+          "value": "minecraft:yellow_dye",
+          "count": 1
+        },
+        "6": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "7": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "8": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        },
+        "9": {
+          "value": "minecraft:terracotta",
+          "count": 1
+        }
+      },
+      "output": {
+        "1": {
+          "item": "minecraft:yellow_terracotta",
+          "count": 8
+        }
+      },
+      "category": "crafting_shaped"
+    }
+  ]
+};
