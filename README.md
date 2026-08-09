@@ -1,7 +1,7 @@
 # Material-Conversion-Tool-for-Minecraft
 Material Conversion Tool for Minecraft
 ## 部署链接：
-https://ccj.ciallo.skin/
+[https://ccj.ciallo.skin/](https://ccj.yumfish.cn/)
 ## 许可协议
 本项目所有代码采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。
 
